@@ -24,28 +24,30 @@ from functools import wraps
 from flask import Flask, request, jsonify, send_from_directory, session
 
 # ==================== 路径处理（支持 PyInstaller 打包）====================
-def get_base_path():
-    """获取程序基础目录（开发环境或 PyInstaller 打包后的目录）"""
+def get_exe_dir():
+    """获取 EXE 文件所在目录（所有文件都在这里）"""
     if getattr(sys, 'frozen', False):
-        # PyInstaller 打包后的环境
-        # sys.executable 是 EXE 文件的路径
-        # 对于 --onefile 模式，数据文件在 sys._MEIPASS 中
-        if hasattr(sys, '_MEIPASS'):
-            return sys._MEIPASS
-        else:
-            return os.path.dirname(sys.executable)
+        return os.path.dirname(sys.executable)
     else:
-        # 普通 Python 脚本运行环境
         return os.path.dirname(os.path.abspath(__file__))
 
-BASE_PATH = get_base_path()
+# EXE 目录（所有文件都在这里，包括 EXE、config.cfg、index.html、JSON 等）
+EXE_DIR = get_exe_dir()
 
 def resource_path(relative_path):
-    """获取资源的绝对路径（兼容开发和打包环境）"""
-    return os.path.join(BASE_PATH, relative_path)
+    """获取资源的绝对路径（相对于 EXE 目录）"""
+    return os.path.join(EXE_DIR, relative_path)
+
+def config_path():
+    """获取 config.cfg 的路径（在 EXE 目录下）"""
+    return os.path.join(EXE_DIR, 'config.cfg')
+
+# Flask 静态文件服务目录（EXE 目录）
+BASE_PATH = EXE_DIR
 
 # ==================== 配置常量 ====================
-CONFIG_FILE = resource_path('config.cfg')
+# CONFIG_FILE 指向 EXE 目录下的 config.cfg（用户可编辑）
+CONFIG_FILE = config_path()
 MAX_RCON_PACKET_SIZE = 8192
 RCON_TIMEOUT = 5
 
@@ -75,7 +77,7 @@ def load_config():
     
     for enc in encodings:
         try:
-            filepath = resource_path(CONFIG_FILE)
+            filepath = CONFIG_FILE
             with codecs.open(filepath, 'r', encoding=enc) as f:
                 config.read_file(f)
             print(f'[L4D2] {CONFIG_FILE} 读取成功，编码: {enc}')
@@ -472,7 +474,7 @@ def check_password(password):
 @app.route('/')
 def index():
     """提供前端页面"""
-    return send_from_directory(BASE_PATH, 'index.html')
+    return send_from_directory(EXE_DIR, 'index.html')
 
 @app.route('/api/servers', methods=['GET'])
 @rate_limit
