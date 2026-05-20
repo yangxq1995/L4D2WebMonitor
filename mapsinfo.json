@@ -1,0 +1,5285 @@
+[
+  {
+    "mapID": 1,
+    "modID": "132381280",
+    "gamemapsID": "2599",
+    "mapNameEN": "2019 (Anniversary Edition)",
+    "mapNameCN": "2019周年纪念版",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 2,
+    "modID": "2070793697",
+    "gamemapsID": null,
+    "mapNameEN": "2019 II",
+    "mapNameCN": "2019II",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 3,
+    "modID": "381419931",
+    "gamemapsID": "2478",
+    "mapNameEN": "2 Evil Eyes",
+    "mapNameCN": "邪恶双眸",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 4,
+    "modID": "283329040",
+    "gamemapsID": "2688",
+    "mapNameEN": "7 Hours Later II",
+    "mapNameCN": "七小时后2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 5,
+    "modID": "121078656",
+    "gamemapsID": "17709",
+    "mapNameEN": "A Dam Mission",
+    "mapNameCN": "大坝的使命",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 7,
+    "modID": "1392024937",
+    "gamemapsID": "20176",
+    "mapNameEN": "拜山",
+    "mapNameCN": "拜山",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 8,
+    "modID": "2765460461",
+    "gamemapsID": "21141",
+    "mapNameEN": "Burning Down Under",
+    "mapNameCN": "火焰之下",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 9,
+    "modID": "2966823903",
+    "gamemapsID": "2838",
+    "mapNameEN": "Left Behind",
+    "mapNameCN": "别被丢下",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 10,
+    "modID": "121221044",
+    "gamemapsID": "3773",
+    "mapNameEN": "Beostdurra",
+    "mapNameCN": "恐惧",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 11,
+    "modID": "177292314",
+    "gamemapsID": "8338",
+    "mapNameEN": "Beldurra 2",
+    "mapNameCN": "恐惧2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 12,
+    "modID": "2073435540",
+    "gamemapsID": "22663",
+    "mapNameEN": "The Hazing",
+    "mapNameCN": "阴霾将至",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 13,
+    "modID": "2574058534",
+    "gamemapsID": "25759",
+    "mapNameEN": "No Echo",
+    "mapNameCN": "音讯全无重制版",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 14,
+    "modID": "2669399953",
+    "gamemapsID": "26601",
+    "mapNameEN": "Black Mesa：Undertow",
+    "mapNameCN": "黑山起源之暗潮",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 15,
+    "modID": "3017419833",
+    "gamemapsID": null,
+    "mapNameEN": "Black Mist",
+    "mapNameCN": "黑迷雾",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 16,
+    "modID": "2679025522",
+    "gamemapsID": "26649",
+    "mapNameEN": "Blightmare",
+    "mapNameCN": "枯萎病",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 17,
+    "modID": "121157156",
+    "gamemapsID": "3994",
+    "mapNameEN": "Blood Proof",
+    "mapNameCN": "血之证明",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 18,
+    "modID": "2681178708",
+    "gamemapsID": "22784",
+    "mapNameEN": "Blood Woods Apocalypse",
+    "mapNameCN": "血腥森林启示录",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 19,
+    "modID": "2737482466",
+    "gamemapsID": "31897",
+    "mapNameEN": "Bloody Sunday 2",
+    "mapNameCN": "血腥星期天2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 20,
+    "modID": "2810350716",
+    "gamemapsID": "27599",
+    "mapNameEN": "Bai Mountain 2",
+    "mapNameCN": "拜山2",
+    "mapCoopChapterN": 12,
+    "isValue": "0"
+  },
+  {
+    "mapID": 21,
+    "modID": "121115793",
+    "gamemapsID": "6691",
+    "mapNameEN": "Back To School",
+    "mapNameCN": "回到学校",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 23,
+    "modID": "2621743089",
+    "gamemapsID": "23930",
+    "mapNameEN": "Buried Deep",
+    "mapNameCN": "深埋",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 24,
+    "modID": "125130773",
+    "gamemapsID": null,
+    "mapNameEN": "Chaos Theory",
+    "mapNameCN": "混沌理论",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 25,
+    "modID": "3133198208",
+    "gamemapsID": "30642",
+    "mapNameEN": "City 17 Revamped",
+    "mapNameCN": "17号城市重制版",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 26,
+    "modID": "2967948507",
+    "gamemapsID": "27469",
+    "mapNameEN": "City of the Dead Redux",
+    "mapNameCN": "死亡之城重制版",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 27,
+    "modID": "2038048532",
+    "gamemapsID": "15170",
+    "mapNameEN": "Coal'd Blood 2",
+    "mapNameCN": "血腥煤矿2",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 28,
+    "modID": "893913550",
+    "gamemapsID": "18243",
+    "mapNameEN": "Complex Course",
+    "mapNameCN": "复杂过程",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 29,
+    "modID": "2401883189",
+    "gamemapsID": null,
+    "mapNameEN": "Confusion 2",
+    "mapNameCN": "困惑2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 30,
+    "modID": "2239738004",
+    "gamemapsID": null,
+    "mapNameEN": "Confusion",
+    "mapNameCN": "困惑",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 31,
+    "modID": "2846346720",
+    "gamemapsID": "24828",
+    "mapNameEN": "ContraZ",
+    "mapNameCN": "魂斗罗Z",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 32,
+    "modID": "1985994917",
+    "gamemapsID": "24069",
+    "mapNameEN": "Crash Bandicoot：Left 4 Dead 2 (2020 Remaster)",
+    "mapNameCN": "崩溃的博士",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 33,
+    "modID": "183952519",
+    "gamemapsID": "2614",
+    "mapNameEN": "Damit 2",
+    "mapNameCN": "大坝2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 34,
+    "modID": "1331957573",
+    "gamemapsID": "19909",
+    "mapNameEN": "Dam It Complete",
+    "mapNameCN": "大坝之洪水",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 35,
+    "modID": "121175467",
+    "gamemapsID": "2592",
+    "mapNameEN": "Dark Blood 2",
+    "mapNameCN": "黑血2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 36,
+    "modID": "575682109",
+    "gamemapsID": "14120",
+    "mapNameEN": "Dark Wood (Extended)",
+    "mapNameCN": "阴暗森林",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 37,
+    "modID": "180925247",
+    "gamemapsID": "9221",
+    "mapNameEN": "Day Break",
+    "mapNameCN": "黎明",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 38,
+    "modID": "2083853186",
+    "gamemapsID": "15922",
+    "mapNameEN": "Dead Before Dawn (Extended)",
+    "mapNameCN": "活死人黎明增强版",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 39,
+    "modID": "2668272749",
+    "gamemapsID": "28427",
+    "mapNameEN": "Dead Center：Christmas",
+    "mapNameCN": "死亡中心圣诞版",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 40,
+    "modID": "2966816688",
+    "gamemapsID": "2464",
+    "mapNameEN": "Dead City 2",
+    "mapNameCN": "死城2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 41,
+    "modID": "672231603",
+    "gamemapsID": "16692",
+    "mapNameEN": "Deadenator",
+    "mapNameCN": "死亡陷阱",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 42,
+    "modID": "2769517731",
+    "gamemapsID": "22299",
+    "mapNameEN": "Dead Military 2",
+    "mapNameCN": "死亡军团2",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 43,
+    "modID": "381435128",
+    "gamemapsID": "2701",
+    "mapNameEN": "Dead Series",
+    "mapNameCN": "连续死亡",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 44,
+    "modID": "851442478",
+    "gamemapsID": "2608",
+    "mapNameEN": "Dead Street 2",
+    "mapNameCN": "死亡街区2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 45,
+    "modID": "2732728795",
+    "gamemapsID": "",
+    "mapNameEN": "Dead County 2",
+    "mapNameCN": "死亡县城2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 46,
+    "modID": "121802125",
+    "gamemapsID": "2486",
+    "mapNameEN": "Death Aboard 2",
+    "mapNameCN": "幽灵船2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 47,
+    "modID": "1922745349",
+    "gamemapsID": "22122",
+    "mapNameEN": "Death Summer",
+    "mapNameCN": "死亡夏天",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 48,
+    "modID": "2914025525",
+    "gamemapsID": "15678",
+    "mapNameEN": "Death Woods",
+    "mapNameCN": "死亡丛林",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 49,
+    "modID": "121275675",
+    "gamemapsID": "2445",
+    "mapNameEN": "Detour Ahead",
+    "mapNameCN": "迂回前进",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 50,
+    "modID": "316053033",
+    "gamemapsID": "9605",
+    "mapNameEN": "Devil Mountain",
+    "mapNameCN": "魔鬼山",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 51,
+    "modID": "1575673903",
+    "gamemapsID": null,
+    "mapNameEN": "Dark Carnival Remix",
+    "mapNameCN": "黑暗复活节重制版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 52,
+    "modID": "2873010225",
+    "gamemapsID": "2700",
+    "mapNameEN": "Dniepr",
+    "mapNameCN": "第聂伯河",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 53,
+    "modID": "2678769597",
+    "gamemapsID": "26668",
+    "mapNameEN": "Dawn Of The Living Dead",
+    "mapNameCN": "活死人黎明1978",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 54,
+    "modID": "2495978657",
+    "gamemapsID": "25310",
+    "mapNameEN": "Dr. Malroy's Laboratory",
+    "mapNameCN": "马尔罗伊博士的实验室",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 55,
+    "modID": "2692808848",
+    "gamemapsID": "26870",
+    "mapNameEN": "Dr. Malroy's Absolution",
+    "mapNameCN": "马尔罗伊博士的赦免",
+    "mapCoopChapterN": 21,
+    "isValue": "0"
+  },
+  {
+    "mapID": 56,
+    "modID": "1208023333",
+    "gamemapsID": "19487",
+    "mapNameEN": "Echo (3.0)",
+    "mapNameCN": "回响",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 57,
+    "modID": "2604408884",
+    "gamemapsID": null,
+    "mapNameEN": "Exempt Orange",
+    "mapNameCN": "橙色豁免",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 58,
+    "modID": "2054400283",
+    "gamemapsID": "22587",
+    "mapNameEN": "Fallen",
+    "mapNameCN": "堕落",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 59,
+    "modID": "2248464111",
+    "gamemapsID": "2403",
+    "mapNameEN": "Fall in Death",
+    "mapNameCN": "坠入死亡",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 60,
+    "modID": "346551866",
+    "gamemapsID": null,
+    "mapNameEN": "Fallout Twilight",
+    "mapNameCN": "辐射暮光之城",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 61,
+    "modID": "1653318165",
+    "gamemapsID": "3078",
+    "mapNameEN": "True FangShi",
+    "mapNameCN": "方氏",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 62,
+    "modID": "788564919",
+    "gamemapsID": "14513",
+    "mapNameEN": "Farewell Chenming",
+    "mapNameCN": "再见了晨茗",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 63,
+    "modID": "372031503",
+    "gamemapsID": "14002",
+    "mapNameEN": "Fatal Freight：Remastered",
+    "mapNameCN": "致命货运站",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 64,
+    "modID": "1571776008",
+    "gamemapsID": null,
+    "mapNameEN": "Final escape",
+    "mapNameCN": "最终逃亡",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 65,
+    "modID": "2765371618",
+    "gamemapsID": null,
+    "mapNameEN": "Free Passage",
+    "mapNameCN": "免费通道",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 66,
+    "modID": "2031028789",
+    "gamemapsID": "22803",
+    "mapNameEN": "Glubtastic",
+    "mapNameCN": "抑郁",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 67,
+    "modID": "2066106924",
+    "gamemapsID": "22804",
+    "mapNameEN": "Glubtastic 2",
+    "mapNameCN": "抑郁2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 68,
+    "modID": "2139756699",
+    "gamemapsID": "24878",
+    "mapNameEN": "Glubtastic 3",
+    "mapNameCN": "抑郁3",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 69,
+    "modID": "2459037122",
+    "gamemapsID": "25144",
+    "mapNameEN": "Glubtastic 4",
+    "mapNameCN": "抑郁4",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 70,
+    "modID": "381442864",
+    "gamemapsID": "3198",
+    "mapNameEN": "GoldenEye 4 Dead",
+    "mapNameCN": "黄金眼1995",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 71,
+    "modID": "121487764",
+    "gamemapsID": "18498",
+    "mapNameEN": "Grey Scale",
+    "mapNameCN": "灰度",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 72,
+    "modID": "2325347179",
+    "gamemapsID": "2653",
+    "mapNameEN": "Haunted Forest",
+    "mapNameCN": "颤栗森林",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 73,
+    "modID": "629476830",
+    "gamemapsID": "2390",
+    "mapNameEN": "Heaven Can Wait II",
+    "mapNameCN": "天堂可待2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 74,
+    "modID": "121069410",
+    "gamemapsID": "2731",
+    "mapNameEN": "I Hate Mountains 2",
+    "mapNameCN": "我恨山2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 75,
+    "modID": "1611766402",
+    "gamemapsID": "2387",
+    "mapNameEN": "Arena of the Dead 2",
+    "mapNameCN": "死亡竞技场2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 76,
+    "modID": "176107716",
+    "gamemapsID": "6084",
+    "mapNameEN": "Journey to Splash Mountain",
+    "mapNameCN": "飞溅山之旅",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 77,
+    "modID": "1594678111",
+    "gamemapsID": "19795",
+    "mapNameEN": "Kaoming",
+    "mapNameCN": "尻名山",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 81,
+    "modID": "281496622",
+    "gamemapsID": "2682",
+    "mapNameEN": "One 4 Nine",
+    "mapNameCN": "古墓亡影",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 82,
+    "modID": "151833267",
+    "gamemapsID": null,
+    "mapNameEN": "Tank Challenge",
+    "mapNameCN": "坦克挑战",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 83,
+    "modID": "189971863",
+    "gamemapsID": "6772",
+    "mapNameEN": "The Bloody Moors",
+    "mapNameCN": "血腥荒野",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 84,
+    "modID": "1655417853",
+    "gamemapsID": "21811",
+    "mapNameEN": "Land of oblivion",
+    "mapNameCN": "遗忘之地",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 85,
+    "modID": "140985360",
+    "gamemapsID": "6055",
+    "mapNameEN": "Last Baktun",
+    "mapNameCN": "最后的巴克顿",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 86,
+    "modID": "2734404363",
+    "gamemapsID": "",
+    "mapNameEN": "Left or Right",
+    "mapNameCN": "左或右",
+    "mapCoopChapterN": 11,
+    "isValue": "0"
+  },
+  {
+    "mapID": 87,
+    "modID": "2108461892",
+    "gamemapsID": "22884",
+    "mapNameEN": "Lockdown",
+    "mapNameCN": "封锁",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 88,
+    "modID": "2627011708",
+    "gamemapsID": "26925",
+    "mapNameEN": "Mysterious World Tour",
+    "mapNameCN": "异世界之旅",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 89,
+    "modID": "2510881203",
+    "gamemapsID": "26876",
+    "mapNameEN": "No Continuity",
+    "mapNameCN": "无连续性",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 90,
+    "modID": "2561355915",
+    "gamemapsID": "5567",
+    "mapNameEN": "There Is Only One Way",
+    "mapNameCN": "只此一路",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 91,
+    "modID": "123734884",
+    "gamemapsID": "2741",
+    "mapNameEN": "Open Road",
+    "mapNameCN": "开源之路",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 92,
+    "modID": "2467220429",
+    "gamemapsID": "25163",
+    "mapNameEN": "Plague Tale",
+    "mapNameCN": "瘟疫传说",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 93,
+    "modID": "1783166057",
+    "gamemapsID": "21398",
+    "mapNameEN": "Home Town",
+    "mapNameCN": "故乡",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 94,
+    "modID": "2783484731",
+    "gamemapsID": "3589",
+    "mapNameEN": "Questionable Ethics：Alpha test",
+    "mapNameCN": "伦理问题之阿尔法测试",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 95,
+    "modID": "2758492786",
+    "gamemapsID": "27048",
+    "mapNameEN": "Questionable Ethics：Combined",
+    "mapNameCN": "伦理问题之联合",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 96,
+    "modID": "1655114147",
+    "gamemapsID": null,
+    "mapNameEN": "秋名市",
+    "mapNameCN": "秋名市",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 97,
+    "modID": "2763428052",
+    "gamemapsID": "22057",
+    "mapNameEN": "Quedan 4x Morir",
+    "mapNameCN": "玛雅遗迹",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 98,
+    "modID": "2783476025",
+    "gamemapsID": "2795",
+    "mapNameEN": "Questionable Ethics",
+    "mapNameCN": "伦理问题",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 99,
+    "modID": "2170993575",
+    "gamemapsID": "18504",
+    "mapNameEN": "Ravenholm",
+    "mapNameCN": "莱温霍姆",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 100,
+    "modID": "143565981",
+    "gamemapsID": "2531",
+    "mapNameEN": "We Don't Go To Ravenholm 2",
+    "mapNameCN": "我们不去莱温霍姆2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 101,
+    "modID": "533677587",
+    "gamemapsID": "15643",
+    "mapNameEN": "Resident Evil 1",
+    "mapNameCN": "生化危机1",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 102,
+    "modID": "762591677",
+    "gamemapsID": null,
+    "mapNameEN": "Resident Evil 2 Side A",
+    "mapNameCN": "生化危机2 分支A",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 103,
+    "modID": "762715214",
+    "gamemapsID": "17369",
+    "mapNameEN": "Resident Evil 2 Side B",
+    "mapNameCN": "生化危机2 分支B",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 104,
+    "modID": "218537256",
+    "gamemapsID": "2849",
+    "mapNameEN": "RedemptionII",
+    "mapNameCN": "救赎2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 105,
+    "modID": "624772819",
+    "gamemapsID": "16220",
+    "mapNameEN": "Resident Evil 3：Nemesis",
+    "mapNameCN": "生化危机3：复仇",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 106,
+    "modID": "2366732687",
+    "gamemapsID": "24382",
+    "mapNameEN": "Ruins",
+    "mapNameCN": "废墟",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 107,
+    "modID": "121225704",
+    "gamemapsID": "3418",
+    "mapNameEN": "SaltHell Park",
+    "mapNameCN": "盐井地狱公园",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 108,
+    "modID": "2715152116",
+    "gamemapsID": "2715152116",
+    "mapNameEN": "Salvation Falls",
+    "mapNameCN": "救赎瀑布",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 109,
+    "modID": "2443777886",
+    "gamemapsID": "",
+    "mapNameEN": "The Seal Of Asrahmat (V2.9)",
+    "mapNameCN": "阿斯拉赫玛的印章",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 110,
+    "modID": "1928497500",
+    "gamemapsID": "30682",
+    "mapNameEN": "Silent Hill：Otherside of Life",
+    "mapNameCN": "寂静岭之另一边的生活",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 111,
+    "modID": "2671782685",
+    "gamemapsID": null,
+    "mapNameEN": "Silesia 2",
+    "mapNameCN": "西里西亚2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 112,
+    "modID": "2592762252",
+    "gamemapsID": null,
+    "mapNameEN": "Sin Esperanza",
+    "mapNameCN": "绝望",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 113,
+    "modID": "2948527635",
+    "gamemapsID": "20809",
+    "mapNameEN": "Special Task 2",
+    "mapNameCN": "特殊任务2",
+    "mapCoopChapterN": 11,
+    "isValue": "0"
+  },
+  {
+    "mapID": 114,
+    "modID": "128428201",
+    "gamemapsID": "2793",
+    "mapNameEN": "Suicide Blitz 2",
+    "mapNameCN": "闪电突袭2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 115,
+    "modID": "2671746662",
+    "gamemapsID": null,
+    "mapNameEN": "Tactical Espionage 2",
+    "mapNameCN": "战术间谍2",
+    "mapCoopChapterN": 11,
+    "isValue": "0"
+  },
+  {
+    "mapID": 116,
+    "modID": "2720771243",
+    "gamemapsID": "27724",
+    "mapNameEN": "Temple Ruins",
+    "mapNameCN": "神庙废墟",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 117,
+    "modID": "1423690164",
+    "gamemapsID": null,
+    "mapNameEN": "The Mission",
+    "mapNameCN": "使命",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 118,
+    "modID": "1741649436",
+    "gamemapsID": "21267",
+    "mapNameEN": "The Curse of Lazar Castle",
+    "mapNameCN": "拉扎尔城堡的诅咒",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 119,
+    "modID": "387588541",
+    "gamemapsID": "11555",
+    "mapNameEN": "The Hive",
+    "mapNameCN": "蜂巢",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 121,
+    "modID": "2257961887",
+    "gamemapsID": "23784",
+    "mapNameEN": "Time to Die",
+    "mapNameCN": "死期将至",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 122,
+    "modID": "3370266073",
+    "gamemapsID": "32411",
+    "mapNameEN": "Tour of Terror",
+    "mapNameCN": "恐怖之旅",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 123,
+    "modID": "2896677838",
+    "gamemapsID": "28505",
+    "mapNameEN": "Undead Zone",
+    "mapNameCN": "亡灵区",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 124,
+    "modID": "2483368576",
+    "gamemapsID": "25248",
+    "mapNameEN": "Unrelenting Morning",
+    "mapNameCN": "无情的早晨",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 125,
+    "modID": "424063762",
+    "gamemapsID": "14590",
+    "mapNameEN": "Undead Smackdown",
+    "mapNameCN": "丧尸侵袭",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 126,
+    "modID": "121086524",
+    "gamemapsID": "2639",
+    "mapNameEN": "Urban Flight",
+    "mapNameCN": "城市航班",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 127,
+    "modID": "122127418",
+    "gamemapsID": "2906",
+    "mapNameEN": "Wan Li",
+    "mapNameCN": "万里",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 128,
+    "modID": "121787087",
+    "gamemapsID": "3131",
+    "mapNameEN": "Warcelona",
+    "mapNameCN": "巴塞罗那",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 129,
+    "modID": "705463727",
+    "gamemapsID": "16814",
+    "mapNameEN": "White Forest",
+    "mapNameCN": "白森林",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 130,
+    "modID": "381848620",
+    "gamemapsID": "2248",
+    "mapNameEN": "Welcome to Hell",
+    "mapNameCN": "地狱欢迎你",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 131,
+    "modID": "2498978864",
+    "gamemapsID": "22601",
+    "mapNameEN": "Yama",
+    "mapNameCN": "摩耶山危机",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 132,
+    "modID": "2802325803",
+    "gamemapsID": "25312",
+    "mapNameEN": "Yichang City",
+    "mapNameCN": "宜昌市",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 133,
+    "modID": "2396847377",
+    "gamemapsID": "25582",
+    "mapNameEN": "Zengcheng v7.3",
+    "mapNameCN": "广州增城v7.3",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 134,
+    "modID": "1600285281",
+    "gamemapsID": null,
+    "mapNameEN": "Absolute Zero Epilogue",
+    "mapNameCN": "绝对零度续章",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 135,
+    "modID": "1600285281",
+    "gamemapsID": "20972",
+    "mapNameEN": "Absolute Zero",
+    "mapNameCN": "绝对零度",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 136,
+    "modID": "2593097864",
+    "gamemapsID": "21496",
+    "mapNameEN": "Z-PTZ",
+    "mapNameCN": "彼得罗扎沃茨克",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 138,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "Dead Center",
+    "mapNameCN": "死亡中心",
+    "mapCoopChapterN": 4,
+    "isValue": "1"
+  },
+  {
+    "mapID": 139,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "Dark Carnival",
+    "mapNameCN": "黑色狂欢节",
+    "mapCoopChapterN": 5,
+    "isValue": "1"
+  },
+  {
+    "mapID": 140,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "Swamp Fever",
+    "mapNameCN": "沼泽激战",
+    "mapCoopChapterN": 4,
+    "isValue": "1"
+  },
+  {
+    "mapID": 141,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "Hard Rain",
+    "mapNameCN": "暴风骤雨",
+    "mapCoopChapterN": 5,
+    "isValue": "1"
+  },
+  {
+    "mapID": 142,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "The Parish",
+    "mapNameCN": "教区",
+    "mapCoopChapterN": 5,
+    "isValue": "1"
+  },
+  {
+    "mapID": 143,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "The Sacrifice",
+    "mapNameCN": "牺牲",
+    "mapCoopChapterN": 3,
+    "isValue": "1"
+  },
+  {
+    "mapID": 144,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "No Mercy",
+    "mapNameCN": "毫不留情",
+    "mapCoopChapterN": 5,
+    "isValue": "1"
+  },
+  {
+    "mapID": 145,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "Crash Course",
+    "mapNameCN": "坠机险途",
+    "mapCoopChapterN": 2,
+    "isValue": "1"
+  },
+  {
+    "mapID": 146,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "Death Toll",
+    "mapNameCN": "死亡丧钟",
+    "mapCoopChapterN": 5,
+    "isValue": "1"
+  },
+  {
+    "mapID": 147,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "Dead Air",
+    "mapNameCN": "寂静时分",
+    "mapCoopChapterN": 5,
+    "isValue": "1"
+  },
+  {
+    "mapID": 148,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "Blood Harvest",
+    "mapNameCN": "血腥收获",
+    "mapCoopChapterN": 5,
+    "isValue": "1"
+  },
+  {
+    "mapID": 149,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "Cold Stream",
+    "mapNameCN": "刺骨寒溪",
+    "mapCoopChapterN": 4,
+    "isValue": "1"
+  },
+  {
+    "mapID": 150,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "The Passing",
+    "mapNameCN": "消逝",
+    "mapCoopChapterN": 3,
+    "isValue": "1"
+  },
+  {
+    "mapID": 151,
+    "modID": "",
+    "gamemapsID": null,
+    "mapNameEN": "The Last Stand",
+    "mapNameCN": "临死一搏",
+    "mapCoopChapterN": 2,
+    "isValue": "1"
+  },
+  {
+    "mapID": 164,
+    "modID": "2752986405",
+    "gamemapsID": "27286",
+    "mapNameEN": "Snow Den",
+    "mapNameCN": "雪巢",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 165,
+    "modID": "2810084271",
+    "gamemapsID": "2476",
+    "mapNameEN": "Precinct 84",
+    "mapNameCN": "84警区",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 163,
+    "modID": "2750770818",
+    "gamemapsID": null,
+    "mapNameEN": "Lambda L4D2",
+    "mapNameCN": "Lambda L4D2",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 153,
+    "modID": "2936276159",
+    "gamemapsID": "2714",
+    "mapNameEN": "Highway To Hell",
+    "mapNameCN": "地狱之路",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 154,
+    "modID": "2764651005",
+    "gamemapsID": "2752",
+    "mapNameEN": "Firetower Trail",
+    "mapNameCN": "消防瞭望塔",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 155,
+    "modID": "2764821469",
+    "gamemapsID": "",
+    "mapNameEN": "Military Industrial Complex I",
+    "mapNameCN": "军事工厂1",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 156,
+    "modID": "2763664144",
+    "gamemapsID": null,
+    "mapNameEN": "Let's Build Our Hideaway (Official/Fixed)",
+    "mapNameCN": "世外桃源",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 157,
+    "modID": "2765460461",
+    "gamemapsID": "9456",
+    "mapNameEN": "Burning Down Under",
+    "mapNameCN": "烧毁",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 158,
+    "modID": "2765243766",
+    "gamemapsID": null,
+    "mapNameEN": "Left 4 Dead Modified：Dead Air",
+    "mapNameCN": "死气沉沉",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 159,
+    "modID": "2763633994",
+    "gamemapsID": null,
+    "mapNameEN": "Dead Run",
+    "mapNameCN": "死亡竞速 ",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 160,
+    "modID": "2757036194",
+    "gamemapsID": "27012",
+    "mapNameEN": "Alley War",
+    "mapNameCN": "巷战",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 161,
+    "modID": "121116980",
+    "gamemapsID": "2413",
+    "mapNameEN": "Diescraper Redux",
+    "mapNameCN": "喋血蜃楼",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 162,
+    "modID": "2755063790",
+    "gamemapsID": "26998",
+    "mapNameEN": "Goodbye Nanning",
+    "mapNameCN": "再见了南宁",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 166,
+    "modID": "3309913906",
+    "gamemapsID": "31813",
+    "mapNameEN": "Project Auburn",
+    "mapNameCN": "污水处理厂",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 167,
+    "modID": "2769962218",
+    "gamemapsID": null,
+    "mapNameEN": "Carnage",
+    "mapNameCN": "大屠杀",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 168,
+    "modID": "2770402794",
+    "gamemapsID": null,
+    "mapNameEN": "Powerstation",
+    "mapNameCN": "地下发电站",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 169,
+    "modID": "854348814",
+    "gamemapsID": "17955",
+    "mapNameEN": "Last Summer",
+    "mapNameCN": "去年夏天",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 170,
+    "modID": "2769928881",
+    "gamemapsID": "22214",
+    "mapNameEN": "Dead St 2",
+    "mapNameCN": "死亡2号街",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 171,
+    "modID": "2763428052",
+    "gamemapsID": null,
+    "mapNameEN": "Quedan 4X Morir 2",
+    "mapNameCN": "死亡4倍速2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 172,
+    "modID": "2560776834",
+    "gamemapsID": null,
+    "mapNameEN": "Heaven Can Wait (Hardcore Version)",
+    "mapNameCN": "天堂可待硬核版 ",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 173,
+    "modID": "1077487228",
+    "gamemapsID": null,
+    "mapNameEN": "Crunchtime",
+    "mapNameCN": "危急时刻",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 174,
+    "modID": "2217093729",
+    "gamemapsID": null,
+    "mapNameEN": "ChenchenCity",
+    "mapNameCN": "晨晨市",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 175,
+    "modID": "2733702056",
+    "gamemapsID": "29064",
+    "mapNameEN": "Silent Hill",
+    "mapNameCN": "寂静岭",
+    "mapCoopChapterN": 16,
+    "isValue": "0"
+  },
+  {
+    "mapID": 176,
+    "modID": "2769922726",
+    "gamemapsID": null,
+    "mapNameEN": "Dead St 16",
+    "mapNameCN": "死亡16号街",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 177,
+    "modID": "2598709949",
+    "gamemapsID": "16636",
+    "mapNameEN": "Death Stop",
+    "mapNameCN": "死亡终点站",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 178,
+    "modID": "798748587",
+    "gamemapsID": "21411",
+    "mapNameEN": "Special Task",
+    "mapNameCN": "特殊任务",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 179,
+    "modID": "2316603744",
+    "gamemapsID": "24266",
+    "mapNameEN": "Special Task 3",
+    "mapNameCN": "特殊任务3",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 180,
+    "modID": "2774957600",
+    "gamemapsID": null,
+    "mapNameEN": "Blood Hospital",
+    "mapNameCN": "血腥医院",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 181,
+    "modID": "2512279903",
+    "gamemapsID": "25425",
+    "mapNameEN": "Cambalache - Buenos Aires",
+    "mapNameCN": "布宜诺斯艾利斯",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 182,
+    "modID": "2759469490",
+    "gamemapsID": "27725",
+    "mapNameEN": "Champion Dream 1.9",
+    "mapNameCN": "冠军梦",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 183,
+    "modID": "2249227977",
+    "gamemapsID": "9304",
+    "mapNameEN": "Deadbeat Escape",
+    "mapNameCN": "无缝逃离",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 184,
+    "modID": "2954957527",
+    "gamemapsID": "26994",
+    "mapNameEN": "Connection",
+    "mapNameCN": "连接",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 185,
+    "modID": "2765331476",
+    "gamemapsID": "22054",
+    "mapNameEN": "Last Call",
+    "mapNameCN": "最终呼叫",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 186,
+    "modID": "342322228",
+    "gamemapsID": "29680",
+    "mapNameEN": "Military Industrial Complex II",
+    "mapNameCN": "军事工厂2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 187,
+    "modID": "121443028",
+    "gamemapsID": "2538",
+    "mapNameEN": "RMS Titanic",
+    "mapNameCN": "泰坦尼克号",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 188,
+    "modID": "153067087",
+    "gamemapsID": "8313",
+    "mapNameEN": "The Last Volt",
+    "mapNameCN": "最后的电伏",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 189,
+    "modID": "2777330080",
+    "gamemapsID": "27158",
+    "mapNameEN": "Freezing Point",
+    "mapNameCN": "冰点",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 190,
+    "modID": "2777476350",
+    "gamemapsID": "3560",
+    "mapNameEN": "Road To Nowhere 2",
+    "mapNameCN": "此路不通2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 191,
+    "modID": "306243689",
+    "gamemapsID": null,
+    "mapNameEN": "Hard Rain：Downpour",
+    "mapNameCN": "暴雨：倾盆大雨",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 193,
+    "modID": "2777397869",
+    "gamemapsID": null,
+    "mapNameEN": "Stone Cold",
+    "mapNameCN": "刺骨寒冰",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 194,
+    "modID": "2631499564",
+    "gamemapsID": null,
+    "mapNameEN": "Cold Case",
+    "mapNameCN": "寒冷时刻",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 196,
+    "modID": "2786082058",
+    "gamemapsID": "27299",
+    "mapNameEN": "Ceda Fever",
+    "mapNameCN": "CEDA狂热",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 197,
+    "modID": "3355453913",
+    "gamemapsID": "",
+    "mapNameEN": "Carried Off Frozen",
+    "mapNameCN": "绝境逢生",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 198,
+    "modID": "2781717328",
+    "gamemapsID": null,
+    "mapNameEN": "\r\nDeadbeat Escape",
+    "mapNameCN": "无缝逃脱",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 199,
+    "modID": "2119859441",
+    "gamemapsID": null,
+    "mapNameEN": "Death Toll APOCALYPSE",
+    "mapNameCN": "死亡丧钟启示录",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 200,
+    "modID": "2781181779",
+    "gamemapsID": null,
+    "mapNameEN": "IMPJAW C1 (Classic)",
+    "mapNameCN": "IMPJAW C1",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 201,
+    "modID": "2781617457",
+    "gamemapsID": null,
+    "mapNameEN": "\r\nLukewarm Stream",
+    "mapNameCN": "温暖的溪流",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 202,
+    "modID": "2931542769",
+    "gamemapsID": "13867",
+    "mapNameEN": "\r\nEnergy Crisis",
+    "mapNameCN": "能源危机",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 203,
+    "modID": "483294885",
+    "gamemapsID": "15122",
+    "mapNameEN": "Roadkill",
+    "mapNameCN": "杀机之路",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 204,
+    "modID": "2034272611",
+    "gamemapsID": "22050",
+    "mapNameEN": "Dead Vacation",
+    "mapNameCN": "死亡度假",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 205,
+    "modID": "157016556",
+    "gamemapsID": "3442",
+    "mapNameEN": "Blackout Basement",
+    "mapNameCN": "停电地下室",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 206,
+    "modID": "343285762",
+    "gamemapsID": "2675",
+    "mapNameEN": "Overkill",
+    "mapNameCN": "赶尽杀绝",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 207,
+    "modID": "285195683",
+    "gamemapsID": "2655",
+    "mapNameEN": "Surrounded by the Dead 2",
+    "mapNameCN": "死亡缠绕2",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 208,
+    "modID": "1356308302",
+    "gamemapsID": "19999",
+    "mapNameEN": "Half-Life 2：Highway 17",
+    "mapNameCN": "17号高速公路",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 209,
+    "modID": "121115409",
+    "gamemapsID": "3470",
+    "mapNameEN": "Death Strip",
+    "mapNameCN": "死亡地带",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 213,
+    "modID": "2942048511",
+    "gamemapsID": null,
+    "mapNameEN": "Left 4 Duluth",
+    "mapNameCN": "德卢斯 v4",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 210,
+    "modID": "2786888729",
+    "gamemapsID": null,
+    "mapNameEN": "Lab 024",
+    "mapNameCN": "24号实验室",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 212,
+    "modID": "2787151193",
+    "gamemapsID": null,
+    "mapNameEN": "Duluth v6.0",
+    "mapNameCN": "德卢斯 v6",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 214,
+    "modID": "2788746181",
+    "gamemapsID": "35126",
+    "mapNameEN": "Fort Noesis",
+    "mapNameCN": "理性堡垒",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 216,
+    "modID": "2791771516",
+    "gamemapsID": null,
+    "mapNameEN": "Tank Arena 2",
+    "mapNameCN": "坦克竞技场2",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 217,
+    "modID": "306083806",
+    "gamemapsID": null,
+    "mapNameEN": "Tank Arena",
+    "mapNameCN": "坦克竞技场",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 218,
+    "modID": "469986973",
+    "gamemapsID": null,
+    "mapNameEN": "ModsTest",
+    "mapNameCN": "MOD测试地图",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 219,
+    "modID": "2793367111",
+    "gamemapsID": null,
+    "mapNameEN": "Tank Challenge 2",
+    "mapNameCN": "坦克挑战2",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 220,
+    "modID": "2793341705",
+    "gamemapsID": null,
+    "mapNameEN": "City Center Apocalypse",
+    "mapNameCN": "城市中心启示录",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 221,
+    "modID": "2733554956",
+    "gamemapsID": null,
+    "mapNameEN": "Cape Murder Port",
+    "mapNameCN": "港口谋杀",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 222,
+    "modID": "2795386618",
+    "gamemapsID": null,
+    "mapNameEN": "Glubtastic：Back 4 Glub",
+    "mapNameCN": "抑郁5",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 223,
+    "modID": "2711934520",
+    "gamemapsID": "2518",
+    "mapNameEN": "Dead Echo 2",
+    "mapNameCN": "死亡回响2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 224,
+    "modID": "2756299247",
+    "gamemapsID": "27011",
+    "mapNameEN": "Infection FM",
+    "mapNameCN": "感染电台",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 225,
+    "modID": "2776903378",
+    "gamemapsID": null,
+    "mapNameEN": "Tume",
+    "mapNameCN": "肿瘤",
+    "mapCoopChapterN": 15,
+    "isValue": "0"
+  },
+  {
+    "mapID": 226,
+    "modID": "2795792363",
+    "gamemapsID": null,
+    "mapNameEN": "洞穴之旅整合版",
+    "mapNameCN": "洞穴之旅整合版",
+    "mapCoopChapterN": 25,
+    "isValue": "0"
+  },
+  {
+    "mapID": 227,
+    "modID": "131489173",
+    "gamemapsID": "7036",
+    "mapNameEN": "Death From Above",
+    "mapNameCN": "死神天降",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 228,
+    "modID": "2413496748",
+    "gamemapsID": "2537",
+    "mapNameEN": "Midnight Rail Run",
+    "mapNameCN": "午夜铁路",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 229,
+    "modID": "1901351213",
+    "gamemapsID": "21972",
+    "mapNameEN": "Infection Overdrive",
+    "mapNameCN": "超速感染",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 230,
+    "modID": "1905306467",
+    "gamemapsID": "2719",
+    "mapNameEN": "Vienna Calling 2",
+    "mapNameCN": "维也纳的呼唤2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 231,
+    "modID": "1599978296",
+    "gamemapsID": "19897",
+    "mapNameEN": "Death Row",
+    "mapNameCN": "死囚牢房",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 232,
+    "modID": "852342211",
+    "gamemapsID": "2604",
+    "mapNameEN": "Pain Train",
+    "mapNameCN": "痛苦列车",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 233,
+    "modID": "571493717",
+    "gamemapsID": null,
+    "mapNameEN": "DE_Prodigy",
+    "mapNameCN": "遗忘的战场",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 234,
+    "modID": "760657091",
+    "gamemapsID": null,
+    "mapNameEN": "Gridlock",
+    "mapNameCN": "僵局",
+    "mapCoopChapterN": 0,
+    "isValue": "0"
+  },
+  {
+    "mapID": 235,
+    "modID": "3662576904",
+    "gamemapsID": "23899",
+    "mapNameEN": "Hopeless",
+    "mapNameCN": "绝望",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 236,
+    "modID": "1756981457",
+    "gamemapsID": "16782",
+    "mapNameEN": "Cure 2",
+    "mapNameCN": "治愈2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 237,
+    "modID": "2558768464",
+    "gamemapsID": "2418",
+    "mapNameEN": "Road To Nowhere",
+    "mapNameCN": "此路不通",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 238,
+    "modID": "1647874862",
+    "gamemapsID": "31641",
+    "mapNameEN": "GoldenEye",
+    "mapNameCN": "黄金眼1997",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 239,
+    "modID": "1962705098",
+    "gamemapsID": "6123",
+    "mapNameEN": "Frozen",
+    "mapNameCN": "冷冻",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 240,
+    "modID": "1658396568",
+    "gamemapsID": "11669",
+    "mapNameEN": "The Cure",
+    "mapNameCN": "治愈",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 241,
+    "modID": "2800560815",
+    "gamemapsID": "",
+    "mapNameEN": "Military Industrial Complex III",
+    "mapNameCN": "军事工厂3",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 250,
+    "modID": "133205851",
+    "gamemapsID": "2802",
+    "mapNameEN": "Kokiri Forest",
+    "mapNameCN": "Kokiri森林",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 243,
+    "modID": "2802620859",
+    "gamemapsID": "",
+    "mapNameEN": "Crossing Over",
+    "mapNameCN": "跨越",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 244,
+    "modID": "2800345183",
+    "gamemapsID": null,
+    "mapNameEN": "Zombie Movie Without Name",
+    "mapNameCN": "无名僵尸电影",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 245,
+    "modID": "2783798289",
+    "gamemapsID": null,
+    "mapNameEN": "Blood Harvest APOCALYPSE",
+    "mapNameCN": "血腥收获启示录",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 246,
+    "modID": "2769651710",
+    "gamemapsID": null,
+    "mapNameEN": "You Are Doomed",
+    "mapNameCN": "命中注定",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 247,
+    "modID": "2666704301",
+    "gamemapsID": null,
+    "mapNameEN": "Unattainable",
+    "mapNameCN": "不可企及",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 248,
+    "modID": "853848421",
+    "gamemapsID": "3126",
+    "mapNameEN": "Infected City",
+    "mapNameCN": "感染之城",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 249,
+    "modID": "2074303467",
+    "gamemapsID": "31668",
+    "mapNameEN": "Infected City 2",
+    "mapNameCN": "感染之城2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 251,
+    "modID": "131396100",
+    "gamemapsID": "7672",
+    "mapNameEN": "Death Mountain",
+    "mapNameCN": "死亡山谷",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 253,
+    "modID": "1696901988",
+    "gamemapsID": "21168",
+    "mapNameEN": "Our Mutual Fiend",
+    "mapNameCN": "我们共同的恶魔",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 254,
+    "modID": "2803263994",
+    "gamemapsID": "2416",
+    "mapNameEN": "Dead On Time",
+    "mapNameCN": "死亡时刻",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 255,
+    "modID": "2802970445",
+    "gamemapsID": null,
+    "mapNameEN": "Left 4 Invasion：Outer Space",
+    "mapNameCN": "入侵：外太空",
+    "mapCoopChapterN": 10,
+    "isValue": "0"
+  },
+  {
+    "mapID": 256,
+    "modID": "2806708427",
+    "gamemapsID": null,
+    "mapNameEN": "Flippin Dead：prequel",
+    "mapNameCN": "厌生：前传",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 257,
+    "modID": "2436925971",
+    "gamemapsID": "2481",
+    "mapNameEN": "No Space 4 Zombies",
+    "mapNameCN": "逃离太空",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 258,
+    "modID": "2598711313",
+    "gamemapsID": "",
+    "mapNameEN": "Derailed 2",
+    "mapNameCN": "脱轨2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 259,
+    "modID": "2607185869",
+    "gamemapsID": null,
+    "mapNameEN": "The Death of the Journey",
+    "mapNameCN": "死亡之旅",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 260,
+    "modID": "2807913763",
+    "gamemapsID": "27766",
+    "mapNameEN": "SECTOR-74：March of the survivors",
+    "mapNameCN": "74区",
+    "mapCoopChapterN": 15,
+    "isValue": "0"
+  },
+  {
+    "mapID": 261,
+    "modID": "2807373683",
+    "gamemapsID": "2829",
+    "mapNameEN": "Left in China",
+    "mapNameCN": "留在中国",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 262,
+    "modID": "2807378814",
+    "gamemapsID": null,
+    "mapNameEN": "Let's Escape",
+    "mapNameCN": "让我们逃",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 263,
+    "modID": "2807240568",
+    "gamemapsID": null,
+    "mapNameEN": "Whispers In The Dark 2",
+    "mapNameCN": "暗语2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 264,
+    "modID": "2807370217",
+    "gamemapsID": null,
+    "mapNameEN": "Black City 2 Ex",
+    "mapNameCN": "黑城2增强版",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 265,
+    "modID": "2924177252",
+    "gamemapsID": "7949",
+    "mapNameEN": "Symbyosys",
+    "mapNameCN": "合作符号",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 266,
+    "modID": "2808311964",
+    "gamemapsID": null,
+    "mapNameEN": "The Ravine",
+    "mapNameCN": "深谷",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 267,
+    "modID": "2807774169",
+    "gamemapsID": null,
+    "mapNameEN": "Black Mesa：Unforeseen Consequences",
+    "mapNameCN": "黑山起源之不可预见的后果",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 268,
+    "modID": "2807281875",
+    "gamemapsID": null,
+    "mapNameEN": "New World Order 2",
+    "mapNameCN": "新世界秩序2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 269,
+    "modID": "3719534661",
+    "gamemapsID": "9056",
+    "mapNameEN": "DownTown Dine ",
+    "mapNameCN": "都市盛宴",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 270,
+    "modID": "145403748",
+    "gamemapsID": null,
+    "mapNameEN": "Taco Bucket Supreme",
+    "mapNameCN": "墨西哥玉米薄饼店",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 271,
+    "modID": "2381837865",
+    "gamemapsID": null,
+    "mapNameEN": "Fallen Fortress",
+    "mapNameCN": "堕落要塞",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 272,
+    "modID": "2818765864",
+    "gamemapsID": "25057",
+    "mapNameEN": "Pesaro",
+    "mapNameCN": "佩萨罗",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 273,
+    "modID": "459178109",
+    "gamemapsID": "14745",
+    "mapNameEN": "Pitch Dark Mesa",
+    "mapNameCN": "平顶山研究所",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 274,
+    "modID": "1643520526",
+    "gamemapsID": "20760",
+    "mapNameEN": "Whispers of Winter",
+    "mapNameCN": "冬日低语",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 275,
+    "modID": "3340481643",
+    "gamemapsID": "2591",
+    "mapNameEN": "Crash Bandicoot Course 2：Electric Wumpaloo",
+    "mapNameCN": "古惑狼2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 276,
+    "modID": "2623325208",
+    "gamemapsID": null,
+    "mapNameEN": "Freezer Burn",
+    "mapNameCN": "冰与火之歌",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 277,
+    "modID": "2890863132",
+    "gamemapsID": "2524",
+    "mapNameEN": "Left 4 Mario：Storm Edition",
+    "mapNameCN": "超级马里奥",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 278,
+    "modID": "1997157162",
+    "gamemapsID": null,
+    "mapNameEN": "The Mortuary",
+    "mapNameCN": "太平间",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 279,
+    "modID": "2807371975",
+    "gamemapsID": "26612",
+    "mapNameEN": "Confused II：Illusions",
+    "mapNameCN": "困惑2之幻象",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 280,
+    "modID": "2080101781",
+    "gamemapsID": null,
+    "mapNameEN": "Country Roads",
+    "mapNameCN": "乡村公路",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 281,
+    "modID": "2246164244",
+    "gamemapsID": "3305",
+    "mapNameEN": "Dead Getaway",
+    "mapNameCN": "死亡逃脱",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 282,
+    "modID": "2421117494",
+    "gamemapsID": "24925",
+    "mapNameEN": "Red Tide",
+    "mapNameCN": "赤潮",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 283,
+    "modID": "1727338367",
+    "gamemapsID": "21236",
+    "mapNameEN": "Left Turn：Silent Hill 3 Tribute",
+    "mapNameCN": "寂静岭3之重返",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 284,
+    "modID": "2091803191",
+    "gamemapsID": null,
+    "mapNameEN": "Riptide",
+    "mapNameCN": "激流",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 285,
+    "modID": "2816107377",
+    "gamemapsID": null,
+    "mapNameEN": "Broken Hand",
+    "mapNameCN": "断手",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 286,
+    "modID": "2744641868",
+    "gamemapsID": "16630",
+    "mapNameEN": "Escape From Toronto",
+    "mapNameCN": "逃离多伦多",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 287,
+    "modID": "2714902551",
+    "gamemapsID": null,
+    "mapNameEN": "Hell 's Forest New Version",
+    "mapNameCN": "新地狱森林",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 288,
+    "modID": "2738545616",
+    "gamemapsID": "22050",
+    "mapNameEN": "Going Ballistic",
+    "mapNameCN": "导弹来袭",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 289,
+    "modID": "2817067970",
+    "gamemapsID": "27702",
+    "mapNameEN": "Black Mesa：Fallouts",
+    "mapNameCN": "黑山起源之辐射",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 291,
+    "modID": "1157372683",
+    "gamemapsID": null,
+    "mapNameEN": "Break Line",
+    "mapNameCN": "断线",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 292,
+    "modID": "2611112720",
+    "gamemapsID": null,
+    "mapNameEN": "GoodBye ZC CITY",
+    "mapNameCN": "离别榨菜市",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 293,
+    "modID": "1957461484",
+    "gamemapsID": "22212",
+    "mapNameEN": "Mall of The Dead",
+    "mapNameCN": "死亡商场",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 294,
+    "modID": "1930582452",
+    "gamemapsID": "2451",
+    "mapNameEN": "Escansion",
+    "mapNameCN": "韵律",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 295,
+    "modID": "579410433",
+    "gamemapsID": null,
+    "mapNameEN": "The Dark Tower 1：The Gunslinger",
+    "mapNameCN": "黑塔1：枪手",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 296,
+    "modID": "1499897932",
+    "gamemapsID": null,
+    "mapNameEN": "Escape the Devil's Chapel TLM",
+    "mapNameCN": "逃离魔鬼教堂TLM",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 297,
+    "modID": "3120632037",
+    "gamemapsID": "21372",
+    "mapNameEN": "Divine Cybermancy",
+    "mapNameCN": "异度神召",
+    "mapCoopChapterN": 12,
+    "isValue": "0"
+  },
+  {
+    "mapID": 298,
+    "modID": "2914447076",
+    "gamemapsID": "3027",
+    "mapNameEN": "Dead Destination",
+    "mapNameCN": "死亡终点",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 299,
+    "modID": "892507598",
+    "gamemapsID": "18242",
+    "mapNameEN": "BOT - Battle with Ogress Toys",
+    "mapNameCN": "玩具世界大乱斗",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 301,
+    "modID": "2823001765",
+    "gamemapsID": null,
+    "mapNameEN": "Reservoir v1.1",
+    "mapNameCN": "大坝危机",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 302,
+    "modID": "2822094384",
+    "gamemapsID": "27824",
+    "mapNameEN": "Dineva",
+    "mapNameCN": "迪内瓦",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 303,
+    "modID": "2824002439",
+    "gamemapsID": "2624",
+    "mapNameEN": "Death Sentence",
+    "mapNameCN": "死刑",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 304,
+    "modID": "2462779939",
+    "gamemapsID": null,
+    "mapNameEN": "Tomb of the Skull King",
+    "mapNameCN": "骷髅王之墓",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 305,
+    "modID": "1865608810",
+    "gamemapsID": null,
+    "mapNameEN": "Dead Run Port",
+    "mapNameCN": "飞奔港口",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 306,
+    "modID": "2825225421",
+    "gamemapsID": "27683",
+    "mapNameEN": "The Evil Within",
+    "mapNameCN": "恶灵附身",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 307,
+    "modID": "2271458225",
+    "gamemapsID": "3987",
+    "mapNameEN": "Claustrophobia",
+    "mapNameCN": "幽闭恐怖症",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 308,
+    "modID": "1857716974",
+    "gamemapsID": null,
+    "mapNameEN": "Condition StranDead",
+    "mapNameCN": "离奇疾病死亡",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 309,
+    "modID": "503741689",
+    "gamemapsID": "15286",
+    "mapNameEN": "Labirinferno",
+    "mapNameCN": "地狱迷宫",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 310,
+    "modID": "587306276",
+    "gamemapsID": "20474",
+    "mapNameEN": "Innes Road Rash：Christmas Edition",
+    "mapNameCN": "英尼斯路障圣诞版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 311,
+    "modID": "1461791793",
+    "gamemapsID": null,
+    "mapNameEN": "Never Ending War：Redux",
+    "mapNameCN": "永不结束的战争：重演",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 312,
+    "modID": "635658491",
+    "gamemapsID": "2136",
+    "mapNameEN": "Dead Flag Blues 2",
+    "mapNameCN": "死亡旗帜2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 313,
+    "modID": "1860322934",
+    "gamemapsID": "21762",
+    "mapNameEN": "Venissia",
+    "mapNameCN": "威尼斯",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 314,
+    "modID": "1713817119",
+    "gamemapsID": null,
+    "mapNameEN": "Left 4 SGC Beta",
+    "mapNameCN": "星际穿越",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 315,
+    "modID": "2134975310",
+    "gamemapsID": null,
+    "mapNameEN": "Outrun",
+    "mapNameCN": "跑的快",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 316,
+    "modID": "1880838761",
+    "gamemapsID": "2750",
+    "mapNameEN": "Blood Tracks",
+    "mapNameCN": "血之轨迹",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 317,
+    "modID": "121073886",
+    "gamemapsID": "2356",
+    "mapNameEN": "25 To Life",
+    "mapNameCN": "终身监禁",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 318,
+    "modID": "3441938348",
+    "gamemapsID": "6846",
+    "mapNameEN": "ZMB-13",
+    "mapNameCN": "代号丧尸13",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 319,
+    "modID": "2239857976",
+    "gamemapsID": "23690",
+    "mapNameEN": "Derailed",
+    "mapNameCN": "脱轨",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 320,
+    "modID": "1387086938",
+    "gamemapsID": "2613",
+    "mapNameEN": "Indiana Jones and the Temple of Zombies",
+    "mapNameCN": "印第安神庙",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 321,
+    "modID": "122131588",
+    "gamemapsID": "2473",
+    "mapNameEN": "Deathcraft 2",
+    "mapNameCN": "我的世界2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 322,
+    "modID": "2650158812",
+    "gamemapsID": null,
+    "mapNameEN": "TaiJi",
+    "mapNameCN": "太极",
+    "mapCoopChapterN": 0,
+    "isValue": "0"
+  },
+  {
+    "mapID": 323,
+    "modID": "2264962518",
+    "gamemapsID": "23847",
+    "mapNameEN": "Grave Consequences",
+    "mapNameCN": "轮回墓穴",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 324,
+    "modID": "854169313",
+    "gamemapsID": "6963",
+    "mapNameEN": "Stargate SG-4",
+    "mapNameCN": "星际之门",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 325,
+    "modID": "1754214887",
+    "gamemapsID": null,
+    "mapNameEN": "Last Heartbeat",
+    "mapNameCN": "最后的心跳",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 326,
+    "modID": "569773741",
+    "gamemapsID": null,
+    "mapNameEN": "2032 ",
+    "mapNameCN": "2032 ",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 327,
+    "modID": "2634628781",
+    "gamemapsID": "2601",
+    "mapNameEN": "Napalm Death",
+    "mapNameCN": "死亡汽油弹",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 328,
+    "modID": "2751165907",
+    "gamemapsID": null,
+    "mapNameEN": "Zengcheng2",
+    "mapNameCN": "广州增城2[体验版]",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 329,
+    "modID": "2718386271",
+    "gamemapsID": null,
+    "mapNameEN": "No Way Out",
+    "mapNameCN": "无处可逃",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 330,
+    "modID": "1933758949",
+    "gamemapsID": null,
+    "mapNameEN": "MTL Gone To Hell",
+    "mapNameCN": "MTL见鬼去吧",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 331,
+    "modID": "2570116410",
+    "gamemapsID": null,
+    "mapNameEN": "The Divide: Final Moments",
+    "mapNameCN": "隔绝：最终时刻",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 332,
+    "modID": "2217185904",
+    "gamemapsID": null,
+    "mapNameEN": "The Divide: Extended",
+    "mapNameCN": "隔绝：扩展",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 333,
+    "modID": "2839000231",
+    "gamemapsID": null,
+    "mapNameEN": "Where the Fairies go",
+    "mapNameCN": "仙女们去哪儿了",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 334,
+    "modID": "2838612769",
+    "gamemapsID": null,
+    "mapNameEN": "The Lego Map 2",
+    "mapNameCN": "乐高地图2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 336,
+    "modID": "654357584",
+    "gamemapsID": null,
+    "mapNameEN": "Innes Road Rash",
+    "mapNameCN": "英尼斯路障",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 337,
+    "modID": "2839697499",
+    "gamemapsID": "26737",
+    "mapNameEN": "Pesaro 2a Ondata",
+    "mapNameCN": "佩萨罗2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 338,
+    "modID": "2844190159",
+    "gamemapsID": "28045",
+    "mapNameEN": "Inferno City",
+    "mapNameCN": "地狱城市",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 339,
+    "modID": "2851330656",
+    "gamemapsID": null,
+    "mapNameEN": "Dead Before Dawn Too",
+    "mapNameCN": "活死人黎明前传",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 340,
+    "modID": "2851434787",
+    "gamemapsID": null,
+    "mapNameEN": "男生女生向前冲",
+    "mapNameCN": "男生女生向前冲",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 341,
+    "modID": "3249770893",
+    "gamemapsID": "28853",
+    "mapNameEN": "At The Gloaming 3",
+    "mapNameCN": "黄昏时刻3",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 342,
+    "modID": "2831665285",
+    "gamemapsID": null,
+    "mapNameEN": "Desperate Escape",
+    "mapNameCN": "血港：重生",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 343,
+    "modID": "2831665517",
+    "gamemapsID": null,
+    "mapNameEN": "At The Gloaming Ⅱ RE",
+    "mapNameCN": "黄昏时刻2 RE",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 344,
+    "modID": "2842171709",
+    "gamemapsID": null,
+    "mapNameEN": "We Need Source 2",
+    "mapNameCN": "我们需要起源2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 345,
+    "modID": "545427336",
+    "gamemapsID": "14164",
+    "mapNameEN": "1987 Freddy Fazbear's Pizza",
+    "mapNameCN": "1987年披萨店",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 346,
+    "modID": "2122207969",
+    "gamemapsID": null,
+    "mapNameEN": "A Forgotten Place",
+    "mapNameCN": "被遗忘的地方v8.0",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 347,
+    "modID": "1629869645",
+    "gamemapsID": null,
+    "mapNameEN": "Beginning To Cross Over",
+    "mapNameCN": "开始改变",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 348,
+    "modID": "2279448617",
+    "gamemapsID": null,
+    "mapNameEN": "Beyond Dead",
+    "mapNameCN": "超越死亡v6.0",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 349,
+    "modID": "2154198700",
+    "gamemapsID": "23360",
+    "mapNameEN": "Black Mesa",
+    "mapNameCN": "黑山基地",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 350,
+    "modID": "2232584588",
+    "gamemapsID": "2559",
+    "mapNameEN": "Run To The Hills",
+    "mapNameCN": "逃至山上",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 351,
+    "modID": "918269416",
+    "gamemapsID": null,
+    "mapNameEN": "Crossing Over 2",
+    "mapNameCN": "交叉2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 352,
+    "modID": "1817763184",
+    "gamemapsID": "8798",
+    "mapNameEN": "Escape From Valencia",
+    "mapNameCN": "逃离瓦伦西亚",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 353,
+    "modID": "1794929577",
+    "gamemapsID": null,
+    "mapNameEN": "Escape Timelords Inferno",
+    "mapNameCN": "逃离地狱",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 354,
+    "modID": "2086667757",
+    "gamemapsID": null,
+    "mapNameEN": "Dead Industry Original",
+    "mapNameCN": "死亡产业",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 360,
+    "modID": "",
+    "gamemapsID": "23334",
+    "mapNameEN": "Zengcheng v5.12",
+    "mapNameCN": "广州增城v5.12",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 355,
+    "modID": "2851702332",
+    "gamemapsID": "28136",
+    "mapNameEN": "The Evolution",
+    "mapNameCN": "进化",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 356,
+    "modID": "164537090",
+    "gamemapsID": "8732",
+    "mapNameEN": "Plan B",
+    "mapNameCN": "B计划",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 357,
+    "modID": "2570561976",
+    "gamemapsID": null,
+    "mapNameEN": "FOS RE",
+    "mapNameCN": "生还之锋重制版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 358,
+    "modID": "1129899282",
+    "gamemapsID": "2768",
+    "mapNameEN": "Urban Disaster",
+    "mapNameCN": "城市灾难",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 359,
+    "modID": "1501941299",
+    "gamemapsID": null,
+    "mapNameEN": "Unholy Ground",
+    "mapNameCN": "渎圣之地v7.5",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 361,
+    "modID": "381843977",
+    "gamemapsID": "2119",
+    "mapNameEN": "Vienna Calling",
+    "mapNameCN": "维也纳的呼唤",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 362,
+    "modID": "634688101",
+    "gamemapsID": "2778",
+    "mapNameEN": "Die Screaming II",
+    "mapNameCN": "死亡尖叫2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 364,
+    "modID": "2731080549",
+    "gamemapsID": null,
+    "mapNameEN": "Resident Evil 7 [Tech Demo]",
+    "mapNameCN": "生化危机7 Demo",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 365,
+    "modID": "126623531",
+    "gamemapsID": "26037",
+    "mapNameEN": "Night Terror",
+    "mapNameCN": "夜惊",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 366,
+    "modID": "2582567006",
+    "gamemapsID": null,
+    "mapNameEN": "Brain 4 Dead",
+    "mapNameCN": "脑死亡",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 367,
+    "modID": "2045197834",
+    "gamemapsID": "20908",
+    "mapNameEN": "No More Industries Ext",
+    "mapNameCN": "不回工业区",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 368,
+    "modID": "2090003266",
+    "gamemapsID": null,
+    "mapNameEN": "The Grave Outdoors",
+    "mapNameCN": "户外坟墓",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 369,
+    "modID": "2259750051",
+    "gamemapsID": "",
+    "mapNameEN": "Road to Deep",
+    "mapNameCN": "路至深渊",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 370,
+    "modID": "2119735920",
+    "gamemapsID": "22944",
+    "mapNameEN": "Deep Phobia",
+    "mapNameCN": "深邃恐惧症",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 371,
+    "modID": "2857894429",
+    "gamemapsID": null,
+    "mapNameEN": "Black City",
+    "mapNameCN": "黑城",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 372,
+    "modID": "2800506083",
+    "gamemapsID": null,
+    "mapNameEN": "The Unofficial Left 4 Dead Tutorial",
+    "mapNameCN": "非官方的求生指南",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 373,
+    "modID": "2273408177",
+    "gamemapsID": "24383",
+    "mapNameEN": "Payload Upward",
+    "mapNameCN": "载荷提升",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 375,
+    "modID": "2050351797",
+    "gamemapsID": "22583",
+    "mapNameEN": "Lego Campaign",
+    "mapNameCN": "乐高",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 376,
+    "modID": "1646203073",
+    "gamemapsID": "22232",
+    "mapNameEN": "Chernobyl：Chapter One",
+    "mapNameCN": "切尔诺贝利",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 377,
+    "modID": "781083107",
+    "gamemapsID": "2526",
+    "mapNameEN": "Resident Evil Outbreak",
+    "mapNameCN": "生化危机：爆发",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 378,
+    "modID": "709335557",
+    "gamemapsID": "16942",
+    "mapNameEN": "Left In Prypiat",
+    "mapNameCN": "逃离普里皮亚季",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 385,
+    "modID": "2866007403",
+    "gamemapsID": "31896",
+    "mapNameEN": "Unforgivable Night Redux",
+    "mapNameCN": "无饶之夜",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 425,
+    "modID": "2901205902",
+    "gamemapsID": "",
+    "mapNameEN": "Deadly Ending",
+    "mapNameCN": "致命结局",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 379,
+    "modID": "2209749185",
+    "gamemapsID": "2135",
+    "mapNameEN": "Drop Dead Gorges",
+    "mapNameCN": "暴毙峡谷",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 381,
+    "modID": "302548893",
+    "gamemapsID": "2600",
+    "mapNameEN": "Shadow Moses Island",
+    "mapNameCN": "暗影摩西岛",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 382,
+    "modID": "1647842848",
+    "gamemapsID": "16582",
+    "mapNameEN": "Death Island",
+    "mapNameCN": "死亡岛",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 383,
+    "modID": "1489881153",
+    "gamemapsID": "2630",
+    "mapNameEN": "Dead High School Fixed",
+    "mapNameCN": "死亡高中",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 384,
+    "modID": "2321780896",
+    "gamemapsID": "3075",
+    "mapNameEN": "Alien Plague",
+    "mapNameCN": "外来鼠疫",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 446,
+    "modID": "2939872821",
+    "gamemapsID": "29116",
+    "mapNameEN": "Funny Moments",
+    "mapNameCN": "趣味时光",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 386,
+    "modID": "2862105080",
+    "gamemapsID": "",
+    "mapNameEN": "Falling Sakura",
+    "mapNameCN": "樱落之时[试玩]",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 387,
+    "modID": "1622008461",
+    "gamemapsID": "20963",
+    "mapNameEN": "Zero Warning",
+    "mapNameCN": "零度警戒",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 388,
+    "modID": "853171778",
+    "gamemapsID": "3410",
+    "mapNameEN": "Vague Reminders",
+    "mapNameCN": "模糊记忆",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 389,
+    "modID": "1594857591",
+    "gamemapsID": "20843",
+    "mapNameEN": "Pit Stop Winter Remix",
+    "mapNameCN": "冬季加油站",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 390,
+    "modID": "1972186996",
+    "gamemapsID": "5118",
+    "mapNameEN": "Five Miles",
+    "mapNameCN": "五英里",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 391,
+    "modID": "2281715537",
+    "gamemapsID": "",
+    "mapNameEN": "El Sufrimiento",
+    "mapNameCN": "痛苦之路",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 392,
+    "modID": "1598941688",
+    "gamemapsID": "15170",
+    "mapNameEN": "Coal'd Blood",
+    "mapNameCN": "血腥煤矿",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 495,
+    "modID": "3048852611",
+    "gamemapsID": "30143",
+    "mapNameEN": "Dark Messiah E3",
+    "mapNameCN": "黑暗弥赛亚E3",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 393,
+    "modID": "2865715952",
+    "gamemapsID": "",
+    "mapNameEN": "Execution Exhibit",
+    "mapNameCN": "执行展览",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 394,
+    "modID": "2622499065",
+    "gamemapsID": "7297",
+    "mapNameEN": "Cold Case",
+    "mapNameCN": "铁证悬案",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 396,
+    "modID": "2872205657",
+    "gamemapsID": "",
+    "mapNameEN": "Helms Deep Reborn",
+    "mapNameCN": "赫尔姆斯深重生",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 397,
+    "modID": "2468134000",
+    "gamemapsID": "25147",
+    "mapNameEN": "Lord Of The Rings Campaign",
+    "mapNameCN": "指环王",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 398,
+    "modID": "3004807607",
+    "gamemapsID": "15566",
+    "mapNameEN": "Cursed and Babbling Mashup",
+    "mapNameCN": "诅咒和唠叨",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 402,
+    "modID": "1740044013",
+    "gamemapsID": "15295",
+    "mapNameEN": "Source Of Infection",
+    "mapNameCN": "感染之源",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 400,
+    "modID": "578030460",
+    "gamemapsID": "15871",
+    "mapNameEN": "Loony Park",
+    "mapNameCN": "疯狂公园",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 401,
+    "modID": "",
+    "gamemapsID": "3075",
+    "mapNameEN": "Alien Trilogy：Section 1",
+    "mapNameCN": "异形：第一章",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 403,
+    "modID": "",
+    "gamemapsID": "4652",
+    "mapNameEN": "Never Ending War：Chapter 3",
+    "mapNameCN": "永无止境的战争：第三章",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 404,
+    "modID": "",
+    "gamemapsID": "2898",
+    "mapNameEN": "The Return：Escape from Louisianna",
+    "mapNameCN": "归来：逃离路易斯安娜",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 405,
+    "modID": "855115240",
+    "gamemapsID": "16952",
+    "mapNameEN": "Gunk",
+    "mapNameCN": "粘液",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 406,
+    "modID": "2873852360",
+    "gamemapsID": "",
+    "mapNameEN": "\r\nLeft 5 Mario",
+    "mapNameCN": "马里奥5",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 407,
+    "modID": "2876082190",
+    "gamemapsID": "28329",
+    "mapNameEN": "The Gray",
+    "mapNameCN": "深灰",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 408,
+    "modID": "2873972147",
+    "gamemapsID": "",
+    "mapNameEN": "Garden of the Sun",
+    "mapNameCN": "太阳花田",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 409,
+    "modID": "2877363569",
+    "gamemapsID": "",
+    "mapNameEN": "Dark Carnival：Ghostbusters! (Halloween)",
+    "mapNameCN": "黑暗嘉年华：捉鬼敢死队！（万圣节）",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 410,
+    "modID": "2876721503",
+    "gamemapsID": "",
+    "mapNameEN": "Silent Hill 2 (Level Demo)",
+    "mapNameCN": "寂静岭2（关卡演示）",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 411,
+    "modID": "2878870016",
+    "gamemapsID": "",
+    "mapNameEN": "The Divide：Reborn",
+    "mapNameCN": "隔绝：重生",
+    "mapCoopChapterN": 11,
+    "isValue": "0"
+  },
+  {
+    "mapID": 412,
+    "modID": "2878698549",
+    "gamemapsID": "",
+    "mapNameEN": "The Divide：Final Moments",
+    "mapNameCN": "隔绝：最后时刻",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 413,
+    "modID": "2879390229",
+    "gamemapsID": "",
+    "mapNameEN": "Escape City17",
+    "mapNameCN": "逃离城市17",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 414,
+    "modID": "2881051780",
+    "gamemapsID": "28358",
+    "mapNameEN": "A Qualia Macabre v1.2",
+    "mapNameCN": "死亡惊悚片v1.2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 415,
+    "modID": "2880011148",
+    "gamemapsID": "",
+    "mapNameEN": "Urdampilleta",
+    "mapNameCN": "乌丹皮列塔",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 416,
+    "modID": "",
+    "gamemapsID": "28327",
+    "mapNameEN": "NMRIH：Anxiety",
+    "mapNameCN": "地狱已满",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 417,
+    "modID": "2800508426",
+    "gamemapsID": "",
+    "mapNameEN": "Westfield Centro",
+    "mapNameCN": "购物中心",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 418,
+    "modID": "2274557269",
+    "gamemapsID": "",
+    "mapNameEN": "Crash Bandicoot：Left 4 Dead 2 (Classic 2013)",
+    "mapNameCN": "古惑狼：求生之路2(2013)",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 419,
+    "modID": "2884330969",
+    "gamemapsID": "",
+    "mapNameEN": "Death Toll Winter",
+    "mapNameCN": "死亡丧钟冬季版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 420,
+    "modID": "1607313394",
+    "gamemapsID": "20879",
+    "mapNameEN": "Wild Ride",
+    "mapNameCN": "狂野骑行",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 421,
+    "modID": "2888803926",
+    "gamemapsID": "28532",
+    "mapNameEN": "Cambalache 2 Total Remake",
+    "mapNameCN": "布宜诺斯艾利斯2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 422,
+    "modID": "2891062323",
+    "gamemapsID": "",
+    "mapNameEN": "Winter Carnival",
+    "mapNameCN": "黑暗复活节冬季版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 423,
+    "modID": "2875513352",
+    "gamemapsID": "7118",
+    "mapNameEN": "Cold Case：The Forsaken",
+    "mapNameCN": "铁证悬案之被遗忘者",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 424,
+    "modID": "2893927074",
+    "gamemapsID": "28784",
+    "mapNameEN": "Blue Heaven",
+    "mapNameCN": "蓝色天堂",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 426,
+    "modID": "2901215612",
+    "gamemapsID": "",
+    "mapNameEN": "Dead End",
+    "mapNameCN": "死胡同",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 427,
+    "modID": "2900850092",
+    "gamemapsID": "6264",
+    "mapNameEN": "Invoked Inferno",
+    "mapNameCN": "召唤地狱",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 428,
+    "modID": "2900896374",
+    "gamemapsID": "15586",
+    "mapNameEN": "Naniwa City 2",
+    "mapNameCN": "感染大阪2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 429,
+    "modID": "2902064724",
+    "gamemapsID": "",
+    "mapNameEN": "Last Ride",
+    "mapNameCN": "最后的旅程",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 430,
+    "modID": "2576723964",
+    "gamemapsID": "",
+    "mapNameEN": "Undead Mine",
+    "mapNameCN": "亡灵矿井",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 431,
+    "modID": "302368143",
+    "gamemapsID": "",
+    "mapNameEN": "Hiking Trails",
+    "mapNameCN": "矿山求生",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 432,
+    "modID": "1528235859",
+    "gamemapsID": "",
+    "mapNameEN": "Back To Ravenholm",
+    "mapNameCN": "重返莱温霍姆",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 433,
+    "modID": "2928811048",
+    "gamemapsID": "25179",
+    "mapNameEN": "Lair Of The Hunters",
+    "mapNameCN": "猎人的巢穴",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 434,
+    "modID": "2901110970",
+    "gamemapsID": "",
+    "mapNameEN": "Be Just Round The Corner ",
+    "mapNameCN": "指日可待",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 435,
+    "modID": "2901763916",
+    "gamemapsID": "",
+    "mapNameEN": "Blackout Basement",
+    "mapNameCN": "停电地下室",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 436,
+    "modID": "2840892745",
+    "gamemapsID": "",
+    "mapNameEN": "Gm Bigcity",
+    "mapNameCN": "大都会",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 437,
+    "modID": "2924571710",
+    "gamemapsID": "",
+    "mapNameEN": "Abandoned 4 Good",
+    "mapNameCN": "遗弃的宝物",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 438,
+    "modID": "2319525124",
+    "gamemapsID": "",
+    "mapNameEN": "North Pole",
+    "mapNameCN": "北极",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 444,
+    "modID": "2900394169",
+    "gamemapsID": "26882",
+    "mapNameEN": "Confused I Nightma",
+    "mapNameCN": "困惑I：噩梦",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 443,
+    "modID": "3502792872",
+    "gamemapsID": "22880",
+    "mapNameEN": "Ear Taters",
+    "mapNameCN": "耳鸣者",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 441,
+    "modID": "756806075",
+    "gamemapsID": "28884",
+    "mapNameEN": "Left 4 Toonrun",
+    "mapNameCN": "动漫世界",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 445,
+    "modID": "2145608141",
+    "gamemapsID": "23092",
+    "mapNameEN": "Lego 4 Dead",
+    "mapNameCN": "乐高4",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 448,
+    "modID": "2051679686",
+    "gamemapsID": "",
+    "mapNameEN": "No Fate Port",
+    "mapNameCN": "没有命运",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 440,
+    "modID": "2972850057",
+    "gamemapsID": "29171",
+    "mapNameEN": "Pesaro 3a Dose",
+    "mapNameCN": "佩萨罗3",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 451,
+    "modID": "2941466359",
+    "gamemapsID": "",
+    "mapNameEN": "Love letter to Yu",
+    "mapNameCN": "致小玉",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 454,
+    "modID": "2957035482",
+    "gamemapsID": "29345",
+    "mapNameEN": "hehe30",
+    "mapNameCN": "呵呵30",
+    "mapCoopChapterN": 45,
+    "isValue": "0"
+  },
+  {
+    "mapID": 455,
+    "modID": "2957306939",
+    "gamemapsID": "29334",
+    "mapNameEN": "Escape From Castle Yhy",
+    "mapNameCN": "逃离德军总部",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 456,
+    "modID": "2957540409",
+    "gamemapsID": "29311",
+    "mapNameEN": "Last Breath",
+    "mapNameCN": "一息尚存",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 457,
+    "modID": "2965449542",
+    "gamemapsID": "29411",
+    "mapNameEN": "Metalslug5",
+    "mapNameCN": "合金弹头5",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 458,
+    "modID": "2966368692",
+    "gamemapsID": "29417",
+    "mapNameEN": "Lockdown：Chapter Two",
+    "mapNameCN": "封锁2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 459,
+    "modID": "",
+    "gamemapsID": "29065",
+    "mapNameEN": "Innards",
+    "mapNameCN": "内部结构",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 460,
+    "modID": "3119941729",
+    "gamemapsID": "29368",
+    "mapNameEN": "Innards2：Into the Chaos",
+    "mapNameCN": "内部结构2之进入混沌",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 461,
+    "modID": "2968601720",
+    "gamemapsID": "15877",
+    "mapNameEN": "Field Of The Dead",
+    "mapNameCN": "死亡之地",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 462,
+    "modID": "2978102846",
+    "gamemapsID": "29459",
+    "mapNameEN": "Pesaro 4",
+    "mapNameCN": "佩萨罗4",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 463,
+    "modID": "2966819690",
+    "gamemapsID": "29349",
+    "mapNameEN": "The Day After",
+    "mapNameCN": "后天",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 467,
+    "modID": "2984855175",
+    "gamemapsID": "",
+    "mapNameEN": "WitchHunter 2014",
+    "mapNameCN": "女巫猎人2014",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 466,
+    "modID": "2981092112",
+    "gamemapsID": "29514",
+    "mapNameEN": "Dr Malroy's The First Encounter",
+    "mapNameCN": "马尔罗伊博士的第一次相遇",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 468,
+    "modID": "2989429928",
+    "gamemapsID": "29563",
+    "mapNameEN": "Kimchi Zombie",
+    "mapNameCN": "泡菜僵尸",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 469,
+    "modID": "2994438513",
+    "gamemapsID": "",
+    "mapNameEN": "Journey After Parish",
+    "mapNameCN": "教区之后",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 470,
+    "modID": "",
+    "gamemapsID": "29604",
+    "mapNameEN": "Thunder Rain Storm",
+    "mapNameCN": "雷雨风暴",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 471,
+    "modID": "2491080011",
+    "gamemapsID": "",
+    "mapNameEN": "The Last Hope",
+    "mapNameCN": "最后的希望",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 472,
+    "modID": "",
+    "gamemapsID": "29453",
+    "mapNameEN": "I Hate Chargers",
+    "mapNameCN": "我讨厌牛牛",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 473,
+    "modID": "3001441890",
+    "gamemapsID": "22055",
+    "mapNameEN": "Left 4 Duluth 2017",
+    "mapNameCN": "德卢斯",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 474,
+    "modID": "3020792480",
+    "gamemapsID": "",
+    "mapNameEN": "Last Flight",
+    "mapNameCN": "最后的战斗",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 475,
+    "modID": "3017830225",
+    "gamemapsID": "2368",
+    "mapNameEN": "Centro",
+    "mapNameCN": "中心商场",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 476,
+    "modID": "3018306632",
+    "gamemapsID": "",
+    "mapNameEN": "Left 4 Cake",
+    "mapNameCN": "死亡蛋糕",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 478,
+    "modID": "3010073358",
+    "gamemapsID": "",
+    "mapNameEN": "Rescue Dawn",
+    "mapNameCN": "重见天日",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 480,
+    "modID": "2990150379",
+    "gamemapsID": "",
+    "mapNameEN": "Resident Evil 3 Short",
+    "mapNameCN": "生化危机3不解密版",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 481,
+    "modID": "2993240068",
+    "gamemapsID": "",
+    "mapNameEN": "Return to Castle",
+    "mapNameCN": "返回城堡",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 482,
+    "modID": "2969925613",
+    "gamemapsID": "",
+    "mapNameEN": "九死一生之小女孩的梦境",
+    "mapNameCN": "九死一生之小女孩的梦境",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 483,
+    "modID": "2971148968",
+    "gamemapsID": "",
+    "mapNameEN": "Underground Escape",
+    "mapNameCN": "地下逃生通道",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 484,
+    "modID": "2974132061",
+    "gamemapsID": "",
+    "mapNameEN": "Death Summit",
+    "mapNameCN": "死亡雪山",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 485,
+    "modID": "3032383972",
+    "gamemapsID": "",
+    "mapNameEN": "4 Sided Coin",
+    "mapNameCN": "4面硬币",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 486,
+    "modID": "3031314033",
+    "gamemapsID": "30043",
+    "mapNameEN": "King PlatteLAN",
+    "mapNameCN": "普拉特兰王国",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 487,
+    "modID": "3045147036",
+    "gamemapsID": "",
+    "mapNameEN": "Facility Bravo",
+    "mapNameCN": "刺杀装置",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 488,
+    "modID": "3043481645",
+    "gamemapsID": "",
+    "mapNameEN": "Ruination",
+    "mapNameCN": "毁灭",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 489,
+    "modID": "3030708505",
+    "gamemapsID": "",
+    "mapNameEN": "Disturbed In The Suburbs",
+    "mapNameCN": "城郊惊魂",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 490,
+    "modID": "3045625928",
+    "gamemapsID": "",
+    "mapNameEN": "Forgotten Mist",
+    "mapNameCN": "被遗忘的迷雾",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 491,
+    "modID": "3038339965",
+    "gamemapsID": "",
+    "mapNameEN": "Dark Tide",
+    "mapNameCN": "黑潮",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 492,
+    "modID": "3056446324",
+    "gamemapsID": "30174",
+    "mapNameEN": "Way To Die",
+    "mapNameCN": "死亡之路",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 493,
+    "modID": "3055520775",
+    "gamemapsID": "",
+    "mapNameEN": "Continue To Escape",
+    "mapNameCN": "继续逃离",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 496,
+    "modID": "2192388990",
+    "gamemapsID": "30164",
+    "mapNameEN": "Helm's Deep Battle",
+    "mapNameCN": "圣盔谷战役",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 497,
+    "modID": "3086994871",
+    "gamemapsID": "",
+    "mapNameEN": "HellBitch 3",
+    "mapNameCN": "地狱怨念3",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 498,
+    "modID": "3101550309",
+    "gamemapsID": "30393",
+    "mapNameEN": "No Mercy：Christmas Edition",
+    "mapNameCN": "毫不留情圣诞版",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 499,
+    "modID": "3106061469",
+    "gamemapsID": "30453",
+    "mapNameEN": "Questionable Ethics Remake",
+    "mapNameCN": "伦理问题重制版",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 500,
+    "modID": "3109191525",
+    "gamemapsID": "",
+    "mapNameEN": "The Woods",
+    "mapNameCN": "森林",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 501,
+    "modID": "3117602773",
+    "gamemapsID": "30514",
+    "mapNameEN": "广西南宁",
+    "mapNameCN": "广西南宁",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 502,
+    "modID": "3119212979",
+    "gamemapsID": "30516",
+    "mapNameEN": "Pick A Gnome",
+    "mapNameCN": "侏儒",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 503,
+    "modID": "2972299209",
+    "gamemapsID": "",
+    "mapNameEN": "Ilogic City of the Dead 2",
+    "mapNameCN": "逻辑之城2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 504,
+    "modID": "3121946236",
+    "gamemapsID": "30560",
+    "mapNameEN": "Lost and Damned",
+    "mapNameCN": "失落与诅咒",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 506,
+    "modID": "3123868806",
+    "gamemapsID": "31891",
+    "mapNameEN": "Navigation",
+    "mapNameCN": "领航",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 507,
+    "modID": "3128058513",
+    "gamemapsID": "30623",
+    "mapNameEN": "Prague",
+    "mapNameCN": "布拉格",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 509,
+    "modID": "3135470026",
+    "gamemapsID": "30655",
+    "mapNameEN": "Cold Front",
+    "mapNameCN": "冷锋",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 510,
+    "modID": "1596706280",
+    "gamemapsID": "20891",
+    "mapNameEN": "Road To F18",
+    "mapNameCN": "通往F18之路",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 511,
+    "modID": "2967975497",
+    "gamemapsID": "2443",
+    "mapNameEN": "Deadly Dispatch",
+    "mapNameCN": "致命派遣",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 512,
+    "modID": "",
+    "gamemapsID": "22287",
+    "mapNameEN": "Hellstorm 2",
+    "mapNameCN": "地狱风暴2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 513,
+    "modID": "1198103174",
+    "gamemapsID": "23958",
+    "mapNameEN": "Prison Break",
+    "mapNameCN": "越狱",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 514,
+    "modID": "1409426103",
+    "gamemapsID": "21708",
+    "mapNameEN": "Trip Day",
+    "mapNameCN": "旅行日",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 515,
+    "modID": "121115409",
+    "gamemapsID": "22034",
+    "mapNameEN": "Death Trip",
+    "mapNameCN": "死亡之旅",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 516,
+    "modID": "302368143",
+    "gamemapsID": "21604",
+    "mapNameEN": "Hiking Trails",
+    "mapNameCN": "远足山径",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 517,
+    "modID": "2720793909",
+    "gamemapsID": "2512",
+    "mapNameEN": "Pasiri",
+    "mapNameCN": "可乐之塔",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 519,
+    "modID": "2978768996",
+    "gamemapsID": "22564",
+    "mapNameEN": "Damned City",
+    "mapNameCN": "峡谷",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 522,
+    "modID": "",
+    "gamemapsID": "2825",
+    "mapNameEN": "Kink",
+    "mapNameCN": "前路曲折",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 524,
+    "modID": "760657091",
+    "gamemapsID": "6010",
+    "mapNameEN": "Gridlock",
+    "mapNameCN": "交通大拥堵",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 525,
+    "modID": "1518313089",
+    "gamemapsID": "",
+    "mapNameEN": "2050",
+    "mapNameCN": "2050",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 540,
+    "modID": "3206745036",
+    "gamemapsID": "31895",
+    "mapNameEN": "Freezing Point: Director's Cut",
+    "mapNameCN": "冰点导演剪辑版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 526,
+    "modID": "",
+    "gamemapsID": "30667",
+    "mapNameEN": "Blood Souls",
+    "mapNameCN": "血腥的灵魂",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 527,
+    "modID": "3142867304",
+    "gamemapsID": "30735",
+    "mapNameEN": "Kimchi Zombie 2",
+    "mapNameCN": "泡菜僵尸2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 528,
+    "modID": "3160503068",
+    "gamemapsID": "30841",
+    "mapNameEN": "Jiangmen Polytechnic",
+    "mapNameCN": "江门职院",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 529,
+    "modID": "3150915303",
+    "gamemapsID": "",
+    "mapNameEN": "Lost Way",
+    "mapNameCN": "迷途",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 530,
+    "modID": "3152168449",
+    "gamemapsID": "30859",
+    "mapNameEN": "The Arrival",
+    "mapNameCN": "抵达",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 531,
+    "modID": "3220375446",
+    "gamemapsID": "31093",
+    "mapNameEN": "Backrooms",
+    "mapNameCN": "后室",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 532,
+    "modID": "3232995750",
+    "gamemapsID": "31239",
+    "mapNameEN": "Dry County",
+    "mapNameCN": "悍县",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 533,
+    "modID": "3275791497",
+    "gamemapsID": "31574",
+    "mapNameEN": "Fire Starter",
+    "mapNameCN": "火种",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 534,
+    "modID": "3266331131",
+    "gamemapsID": "31531",
+    "mapNameEN": "Green Walls",
+    "mapNameCN": "绿色城墙",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 535,
+    "modID": "2367067908",
+    "gamemapsID": "24594",
+    "mapNameEN": "Block2",
+    "mapNameCN": "方块2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 536,
+    "modID": "2845388648",
+    "gamemapsID": "31656",
+    "mapNameEN": "HellRide",
+    "mapNameCN": "地狱骑行",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 537,
+    "modID": "3290745411",
+    "gamemapsID": "21682",
+    "mapNameEN": "Nova Prospekt",
+    "mapNameCN": "诺瓦矿产",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 538,
+    "modID": "",
+    "gamemapsID": "31628",
+    "mapNameEN": "Death Corridors",
+    "mapNameCN": "死亡走廊",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 539,
+    "modID": "3303352195",
+    "gamemapsID": "31759",
+    "mapNameEN": "Mission Improbable",
+    "mapNameCN": "不可能完成的任务",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 541,
+    "modID": "3342474772",
+    "gamemapsID": "32073",
+    "mapNameEN": "Dead Center：Halloween Edition",
+    "mapNameCN": "死亡中心万圣节版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 542,
+    "modID": "3101550309",
+    "gamemapsID": "30393",
+    "mapNameEN": "No Mercy：Christmas Edition",
+    "mapNameCN": "毫不留情圣诞版",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 543,
+    "modID": "2994593841",
+    "gamemapsID": "",
+    "mapNameEN": "Back 4 Gnome：Mini-Story",
+    "mapNameCN": "找回侏儒",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 544,
+    "modID": "3344282494",
+    "gamemapsID": "32109",
+    "mapNameEN": "Tropical Thunder",
+    "mapNameCN": "热带惊雷",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 545,
+    "modID": "2672826247",
+    "gamemapsID": "31991",
+    "mapNameEN": "North Chaos",
+    "mapNameCN": "北境混沌",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 546,
+    "modID": "3356514162",
+    "gamemapsID": "32213",
+    "mapNameEN": "The Evil Within 2",
+    "mapNameCN": "恶灵附身2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 547,
+    "modID": "3357499976",
+    "gamemapsID": "",
+    "mapNameEN": "Big Wat Halloween",
+    "mapNameCN": "大佛寺万圣版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 548,
+    "modID": "3699634378",
+    "gamemapsID": "",
+    "mapNameEN": "The Tomb of Terror Rework",
+    "mapNameCN": "恐怖之墓重制版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 549,
+    "modID": "3363605876",
+    "gamemapsID": "32374",
+    "mapNameEN": "Pier Pressure",
+    "mapNameCN": "码头压力",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 550,
+    "modID": "3366491323",
+    "gamemapsID": "",
+    "mapNameEN": "Glubtastic 5",
+    "mapNameCN": "抑郁5",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 552,
+    "modID": "3303857043",
+    "gamemapsID": "",
+    "mapNameEN": "L4PT2",
+    "mapNameCN": "传送门2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 553,
+    "modID": "3293482521",
+    "gamemapsID": "",
+    "mapNameEN": "Codename Cure",
+    "mapNameCN": "代号治愈",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 554,
+    "modID": "3027745960",
+    "gamemapsID": "",
+    "mapNameEN": "Underground Pathway",
+    "mapNameCN": "地下通道",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 555,
+    "modID": "",
+    "gamemapsID": "32400",
+    "mapNameEN": "Secret Forest",
+    "mapNameCN": "秘密森林",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 556,
+    "modID": "2899877268",
+    "gamemapsID": "28556",
+    "mapNameEN": "cave tour5",
+    "mapNameCN": "洞穴之旅5之鬼",
+    "mapCoopChapterN": 12,
+    "isValue": "0"
+  },
+  {
+    "mapID": 557,
+    "modID": "3373206135",
+    "gamemapsID": "",
+    "mapNameEN": "cave tour6",
+    "mapNameCN": "洞穴之旅6之碎尸还魂",
+    "mapCoopChapterN": 12,
+    "isValue": "0"
+  },
+  {
+    "mapID": 558,
+    "modID": "2978097404",
+    "gamemapsID": "",
+    "mapNameEN": "Silk Roads",
+    "mapNameCN": "丝绸之路",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 559,
+    "modID": "3378140391",
+    "gamemapsID": "",
+    "mapNameEN": "Dead South",
+    "mapNameCN": "死亡南方",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 560,
+    "modID": "3264078585",
+    "gamemapsID": "31990",
+    "mapNameEN": "Armacham Headquarters",
+    "mapNameCN": "阿玛坎总部",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 561,
+    "modID": "121971655",
+    "gamemapsID": "32004",
+    "mapNameEN": "Death Row",
+    "mapNameCN": "死囚牢房",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 562,
+    "modID": "3381242318",
+    "gamemapsID": "",
+    "mapNameEN": "Mannhattan",
+    "mapNameCN": "曼恩哈顿防守",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 563,
+    "modID": "3404576339",
+    "gamemapsID": "32653",
+    "mapNameEN": "Deadly New Year",
+    "mapNameCN": "致命新年",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 564,
+    "modID": "3384367668",
+    "gamemapsID": "32486",
+    "mapNameEN": "The Betrayal",
+    "mapNameCN": "背叛",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 565,
+    "modID": "3416766461",
+    "gamemapsID": "",
+    "mapNameEN": "Sleepless Night",
+    "mapNameCN": "不眠之夜",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 566,
+    "modID": "3416817908",
+    "gamemapsID": "",
+    "mapNameEN": "Left 4 Portal 2 Overgrown",
+    "mapNameCN": "传送门2之杂草丛生",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 567,
+    "modID": "3421714807",
+    "gamemapsID": "32779",
+    "mapNameEN": "Vox Aeterna",
+    "mapNameCN": "沙海恒音",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 568,
+    "modID": "3418229075",
+    "gamemapsID": "32765",
+    "mapNameEN": "PAYDAY2：Undead War",
+    "mapNameCN": "收获日2之不死战争",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 569,
+    "modID": "3426087288",
+    "gamemapsID": "32817",
+    "mapNameEN": "Lockdown：Chapter Two DLC",
+    "mapNameCN": "封锁2DLC",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 570,
+    "modID": "3407710850",
+    "gamemapsID": "32818",
+    "mapNameEN": "Dead Flag Blues 2 Reborn ",
+    "mapNameCN": "死亡旗帜2重制版",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 571,
+    "modID": "3431536869",
+    "gamemapsID": "32859",
+    "mapNameEN": "Air Conditioner",
+    "mapNameCN": "空气转换厂",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 572,
+    "modID": "3443412854",
+    "gamemapsID": "",
+    "mapNameEN": "Zombiez L4D2",
+    "mapNameCN": "僵尸部队",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 573,
+    "modID": "3442006749",
+    "gamemapsID": "",
+    "mapNameEN": "Pasay City",
+    "mapNameCN": "帕赛市",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 574,
+    "modID": "3129882476",
+    "gamemapsID": "",
+    "mapNameEN": "Left At Walmart",
+    "mapNameCN": "遗落在沃尔玛",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 575,
+    "modID": "3453009791",
+    "gamemapsID": "",
+    "mapNameEN": "Project：Dreams",
+    "mapNameCN": "项目之梦想",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 576,
+    "modID": "3459292529",
+    "gamemapsID": "",
+    "mapNameEN": "CF水之城",
+    "mapNameCN": "CF水之城",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 577,
+    "modID": "3422801321",
+    "gamemapsID": "",
+    "mapNameEN": "CF神秘营地",
+    "mapNameCN": "CF神秘营地",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 578,
+    "modID": "3444192446",
+    "gamemapsID": "",
+    "mapNameEN": "CF绝命之谷",
+    "mapNameCN": "CF绝命之谷",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 579,
+    "modID": "3467771457",
+    "gamemapsID": "",
+    "mapNameEN": "穗织",
+    "mapNameCN": "穗织",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 580,
+    "modID": "3460751898",
+    "gamemapsID": "",
+    "mapNameEN": "Beginning Hours Variant",
+    "mapNameCN": "开始时分",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 581,
+    "modID": "3470238064",
+    "gamemapsID": "",
+    "mapNameEN": "The Real Orange Miracle",
+    "mapNameCN": "真正的橙色奇迹",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 582,
+    "modID": "3429157594",
+    "gamemapsID": "33361",
+    "mapNameEN": "Infected Town Fixed",
+    "mapNameCN": "感染小镇修复版",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 583,
+    "modID": "3470457447",
+    "gamemapsID": "33350",
+    "mapNameEN": "Whispers Beyond The Wind",
+    "mapNameCN": "风之彼端的低语",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 584,
+    "modID": "3476252315",
+    "gamemapsID": "",
+    "mapNameEN": "CF瓦尔基里",
+    "mapNameCN": "CF瓦尔基里",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 585,
+    "modID": "3484169439",
+    "gamemapsID": "",
+    "mapNameEN": "ZCCITY LAST HOPE",
+    "mapNameCN": "榨菜市最后的希望",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 586,
+    "modID": "3484067854",
+    "gamemapsID": "",
+    "mapNameEN": "DIZTRITO",
+    "mapNameCN": "迪兹特里托",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 587,
+    "modID": "3463091629",
+    "gamemapsID": "",
+    "mapNameEN": "逃离化龙",
+    "mapNameCN": "逃离化龙",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 588,
+    "modID": "3492541870",
+    "gamemapsID": "33595",
+    "mapNameEN": "proDEUS Requiem",
+    "mapNameCN": "普罗狄俄斯安魂曲",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 589,
+    "modID": "",
+    "gamemapsID": "29576",
+    "mapNameEN": "Half-Life：Opposing Force",
+    "mapNameCN": "半条命之针锋相对",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 590,
+    "modID": "3493024520",
+    "gamemapsID": "",
+    "mapNameEN": "Atrocity Valley",
+    "mapNameCN": "暴行山谷",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 591,
+    "modID": "3495263752",
+    "gamemapsID": "",
+    "mapNameEN": "Moscow",
+    "mapNameCN": "莫斯科",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 592,
+    "modID": "3493965149",
+    "gamemapsID": "33611",
+    "mapNameEN": "The Extinction",
+    "mapNameCN": "灭绝",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 593,
+    "modID": "3517445706",
+    "gamemapsID": "",
+    "mapNameEN": "G4F2",
+    "mapNameCN": "滚开",
+    "mapCoopChapterN": 7,
+    "isValue": "0"
+  },
+  {
+    "mapID": 594,
+    "modID": "3563228648",
+    "gamemapsID": "",
+    "mapNameEN": "Neo Tokyo Kshatriya",
+    "mapNameCN": "新东京之刹帝利",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 595,
+    "modID": "3526529688",
+    "gamemapsID": "34457",
+    "mapNameEN": "The Gravitation",
+    "mapNameCN": "地心引力",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 597,
+    "modID": "3533648153",
+    "gamemapsID": "34628",
+    "mapNameEN": "逃离化龙中学",
+    "mapNameCN": "逃离化龙中学",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 598,
+    "modID": "553296318",
+    "gamemapsID": "",
+    "mapNameEN": "The Neverglades",
+    "mapNameCN": "永沼之地",
+    "mapCoopChapterN": 0,
+    "isValue": "0"
+  },
+  {
+    "mapID": 599,
+    "modID": "3553947986",
+    "gamemapsID": "34508",
+    "mapNameEN": "Viy",
+    "mapNameCN": "维伊",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 600,
+    "modID": "3560886237",
+    "gamemapsID": "34595",
+    "mapNameEN": "高塔突袭：易兴大厦",
+    "mapNameCN": "高塔突袭之易兴大厦",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 601,
+    "modID": "3560901999",
+    "gamemapsID": "",
+    "mapNameEN": "Early Days",
+    "mapNameCN": "末日前夕",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 602,
+    "modID": "3474984472",
+    "gamemapsID": "33365",
+    "mapNameEN": "Dead Fall: Remake",
+    "mapNameCN": "死亡陨落重制版",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 603,
+    "modID": "3566798173",
+    "gamemapsID": "34508",
+    "mapNameEN": "Insurgency",
+    "mapNameCN": "叛乱",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 604,
+    "modID": "3571593068",
+    "gamemapsID": "",
+    "mapNameEN": "Lima Infection",
+    "mapNameCN": "利马感染",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 605,
+    "modID": "3295643228",
+    "gamemapsID": "",
+    "mapNameEN": "广西-灵山",
+    "mapNameCN": "广西灵山",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 606,
+    "modID": "3578078027",
+    "gamemapsID": "34697",
+    "mapNameEN": "YiChangCity2",
+    "mapNameCN": "宜昌市2",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 607,
+    "modID": "3574060647",
+    "gamemapsID": "",
+    "mapNameEN": "白玉楼诱饵",
+    "mapNameCN": "白玉楼诱饵",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 608,
+    "modID": "3565933278",
+    "gamemapsID": "",
+    "mapNameEN": "Dead on Time 2",
+    "mapNameCN": "死亡时刻2",
+    "mapCoopChapterN": 0,
+    "isValue": "0"
+  },
+  {
+    "mapID": 609,
+    "modID": "3583374422",
+    "gamemapsID": "34721",
+    "mapNameEN": "广西灵山2",
+    "mapNameCN": "广西灵山2",
+    "mapCoopChapterN": 8,
+    "isValue": "0"
+  },
+  {
+    "mapID": 610,
+    "modID": "3592650212",
+    "gamemapsID": "34837",
+    "mapNameEN": "The Last Heaven",
+    "mapNameCN": "最后的天堂",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 611,
+    "modID": "3592009167",
+    "gamemapsID": "",
+    "mapNameEN": "The Walking Dead",
+    "mapNameCN": "行尸走肉",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 612,
+    "modID": "3314155490",
+    "gamemapsID": "34834",
+    "mapNameEN": "NEW YORK CAMPAIGN",
+    "mapNameCN": "纽约战役",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 613,
+    "modID": "3555285133",
+    "gamemapsID": "34844",
+    "mapNameEN": "Half-Life:Escape",
+    "mapNameCN": "半条命之逃脱",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 614,
+    "modID": "3038229897",
+    "gamemapsID": "",
+    "mapNameEN": "The Walk of Death",
+    "mapNameCN": "死亡漫步",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 615,
+    "modID": "1929348383",
+    "gamemapsID": "",
+    "mapNameEN": "Half-Life 2：Water Hazard",
+    "mapNameCN": "半条命2之水上危机",
+    "mapCoopChapterN": 9,
+    "isValue": "0"
+  },
+  {
+    "mapID": 616,
+    "modID": "",
+    "gamemapsID": "34944",
+    "mapNameEN": "太原市",
+    "mapNameCN": "太原市",
+    "mapCoopChapterN": 2,
+    "isValue": "0"
+  },
+  {
+    "mapID": 617,
+    "modID": "3285366206",
+    "gamemapsID": "31837",
+    "mapNameEN": "Deal with Destiny",
+    "mapNameCN": "直面天命",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 618,
+    "modID": "3648971839",
+    "gamemapsID": "35108",
+    "mapNameEN": "Black Mesa Hazardous Environment",
+    "mapNameCN": "黑山之危险环境",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 619,
+    "modID": "3658618076",
+    "gamemapsID": "35223",
+    "mapNameEN": "Entropy Zero",
+    "mapNameCN": "熵零",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 620,
+    "modID": "3666496438",
+    "gamemapsID": "35282",
+    "mapNameEN": "Dawn at Last",
+    "mapNameCN": "黎明将至",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 621,
+    "modID": "3665117439",
+    "gamemapsID": "",
+    "mapNameEN": "Tower Defense: Mannhattan",
+    "mapNameCN": "塔防之曼哈顿",
+    "mapCoopChapterN": 1,
+    "isValue": "0"
+  },
+  {
+    "mapID": 623,
+    "modID": "3657400176",
+    "gamemapsID": "35529",
+    "mapNameEN": "lego wonderlans",
+    "mapNameCN": "乐高奇境",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 624,
+    "modID": "3679200707",
+    "gamemapsID": "35527",
+    "mapNameEN": "lego wonderlans 2",
+    "mapNameCN": "乐高奇境2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 625,
+    "modID": "3696688172",
+    "gamemapsID": "35577",
+    "mapNameEN": "Black Mesa Borderworld",
+    "mapNameCN": "黑山之边境世界",
+    "mapCoopChapterN": 4,
+    "isValue": "0"
+  },
+  {
+    "mapID": 626,
+    "modID": "3702314883",
+    "gamemapsID": "",
+    "mapNameEN": "Left Behind 2",
+    "mapNameCN": "别被丢下2",
+    "mapCoopChapterN": 6,
+    "isValue": "0"
+  },
+  {
+    "mapID": 627,
+    "modID": "3715182593",
+    "gamemapsID": "",
+    "mapNameEN": "Half-Life:Escape 2",
+    "mapNameCN": "半条命之逃脱2",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 628,
+    "modID": "3712335840",
+    "gamemapsID": "35819",
+    "mapNameEN": "Dead Center 2025",
+    "mapNameCN": "死亡中心2025",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  },
+  {
+    "mapID": 629,
+    "modID": "3720511298",
+    "gamemapsID": "35816",
+    "mapNameEN": "SchoolLive",
+    "mapNameCN": "学院孤岛",
+    "mapCoopChapterN": 3,
+    "isValue": "0"
+  },
+  {
+    "mapID": 630,
+    "modID": "3726403340",
+    "gamemapsID": "",
+    "mapNameEN": "Amid The Ruins",
+    "mapNameCN": "废墟之中",
+    "mapCoopChapterN": 5,
+    "isValue": "0"
+  }
+]
