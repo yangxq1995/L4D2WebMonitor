@@ -233,7 +233,7 @@ enabled = true
 
 1. 打开命令提示符，切换到项目目录：
    ```bash
-   cd /d G:\qClaw\l4d2ServerMonitor
+   cd /d G:\l4d2ServerMonitor
    ```
 
 2. 运行后端程序：
@@ -261,7 +261,7 @@ enabled = true
 1. 创建启动脚本 `start.bat`：
    ```batch
    @echo off
-   cd /d G:\qClaw\l4d2ServerMonitor
+   cd /d G:\l4d2ServerMonitor
    python serviceCore.py
    pause
    ```
@@ -434,22 +434,6 @@ window_seconds = 60
 2. 检查 `config.cfg` 配置是否正确
 3. 确保 `chaptersinfo.json` 和 `mapsinfo.json` 格式正确
 4. 联系项目维护者
-
----
-
-## 📃 更新日志
-
-### v2.0（当前版本）
-- ✅ 重构前端代码，提高可读性和可维护性
-- ✅ 优化后端逻辑，消除重复代码
-- ✅ 使用 CSS 变量统一管理样式
-- ✅ 提取常量，方便配置
-- ✅ 改进错误处理和日志输出
-
-### v1.0（初始版本）
-- 实现基本的服务器监控功能
-- 支持 RCON 协议通信
-- 提供 Web 界面
 
 ---
 
